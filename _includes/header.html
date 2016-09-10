@@ -1,0 +1,53 @@
+<div class="navbar navbar-default navbar-fixed-top navbar-transparent">
+    <div class="container">
+        <div class="navbar-header">
+            <a href="{{ site.github.url }}/"><img class="img-responsive logo" style="display: inline-block;width:145px;padding-top:10px;"
+                               src="{{ site.github.url }}/img/logo-grey.svg"></a>
+            <button class="navbar-toggle" type="button" data-toggle="collapse" data-target="#navbar-main">
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+            </button>
+        </div>
+        <div class="navbar-collapse collapse" id="navbar-main">
+
+            <ul class="nav navbar-nav navbar-right">
+                <li><a>
+                    <form method="get" target="_blank"
+                          action="https://apac.littlehotelier.com/properties/samurai-beach-bungalows">
+                        <input type="text" placeholder="Date" name="check_in_date"> <input type="text" class="small"
+                                                                                           placeholder="Number of nights">
+                        <input type="submit" value="Book">
+                    </form>
+                </a>
+
+
+                </li>
+                {% for page in site.data.nav %}
+
+                <!-- check to see if the data file has a submenu, and if so display it -->
+                {% if page.subcategories != null %}
+                <li class="dropdown">
+                    <a href="{{ site.github.url }}{{ page.url }}" class="dropdown-toggle" data-toggle="dropdown" data-hover="dropdown">{{ page.title }}<span class="caret"></span></input></a>
+                    <ul class="dropdown-menu">
+                        {% for subcategory in page.subcategories %}
+                        {% if subcategory.target != null %}
+                        <li><a href="{{ subcategory.subhref }}" target="{{ subcategory.target }}">{{ subcategory.subtitle }}</a></li>
+                        {% else %}
+                        <li><a href="{{ site.github.url }}{{ subcategory.subhref }}">{{ subcategory.subtitle }}</a></li>
+                        {% endif %}
+                        {% endfor %}
+                    </ul>
+                    {% else %}
+
+                    <!— display the top level navigation for items that don’t have a submenu -->
+                <li>
+                    <a href="{{ site.github.url }}{{ page.href }}">{{ page.title }}</a>
+                    {% endif %}
+                </li>
+                {% endfor %}
+            </ul>
+
+        </div>
+    </div>
+</div>
