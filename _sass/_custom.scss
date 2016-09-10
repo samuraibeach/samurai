@@ -1,0 +1,77 @@
+body {
+  padding-top: 40px;
+}
+
+.navbar-default .navbar-nav > li > a {
+  color: #ffffff;
+  font-weight: bold;
+}
+
+#navbar-main{
+  font-size:25px;
+}
+
+.coverpic7{
+  background: rgba(0, 0, 0, 0.1) url(/img/cover/poolandbo.jpg);
+}
+
+.arrival{
+  background: rgba(0, 0, 0, 0.1) url(/img/cover/arrival.jpg);
+}
+
+.cover {
+  margin-top: -40px;
+  background-position: center top;
+  background-repeat: no-repeat;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  height: 550px;
+  margin-bottom:15px;
+}
+
+.cover:before {
+  position: absolute;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  background-color: inherit;
+  content: ' ';
+  height: 570px;
+}
+
+#home {
+  padding-top: 0;
+  background-color: #f9f9f9;
+}
+
+.booking-widget-container {
+  position: relative;
+  padding-bottom: 55%;
+  height: 0;
+  overflow: scroll;
+}
+
+.booking-widget-container iframe{
+  position: absolute;
+  top:0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+
+.google-maps {
+  position: relative;
+  padding-bottom: 90%; // (450 ÷ 500 = 0.9 = 90%)
+  height: 0;
+  overflow: hidden;
+}
+.google-maps iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
