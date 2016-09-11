@@ -13,7 +13,11 @@ layout: default
     <div class="row">
         <div class="col-md-7 col-md-offset-1">
             {{ content }}
+<<<<<<< Updated upstream
             {% if page.url == "/activities/" %}
+=======
+            {% if page.url == "/activities" %}
+>>>>>>> Stashed changes
                 <h2>Seasonal activities</h2>
                 {% for activity in site.activities %}
                     {% if activity.seasonal == "now" %}
