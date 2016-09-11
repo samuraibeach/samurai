@@ -1,6 +1,6 @@
 ---
 title: Riding on the Beach
-layout: page
+layout: activities
 permalink: /activities/riding-on-the-beach
 coverpicture: coverpic-activities
 ---

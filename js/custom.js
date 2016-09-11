@@ -10,9 +10,9 @@
 
     $(window).scroll(function () {
         var scrolled = $(document).scrollTop();
-        /*$('.cover').css({
-            'background-position-y': (scrolled / 3).toFixed(2) + 'px'
-        });*/
+        //var vertical = $('.cover').data('vertical-value');
+        //var horizontal = $('.cover').data('vertical-value');
+        //$('.cover').css('background-position', horizontal + ' ' + vertical);
     });
 
     $(document).ready(function () {

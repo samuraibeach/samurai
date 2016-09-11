@@ -3,7 +3,9 @@ layout: default
 ---
 <div class="container-fluid">
     <div class="row">
-        <div class="cover {{ page.coverpicture }}">
+        <div class="col-md-12 {{ page.coverpicture }} bgimage" data-horizontal-value="{{page.cover.horizontal}}"
+             data-vertical-value="{{page.cover.vertical}}">
+            <div class="bgimage-inside"></div>
         </div>
     </div>
 </div>

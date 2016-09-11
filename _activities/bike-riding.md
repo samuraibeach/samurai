@@ -1,6 +1,6 @@
 ---
 title: Bike riding
-layout: page
+layout: activities
 parent: /activities
 permalink: /activities/bike-riding
 coverpicture: coverpic-activities

@@ -1,6 +1,6 @@
 ---
 title: Diving and snorkeling
-layout: page
+layout: activities
 permalink: /activities/diving-and-snorkeling-in-port-stephens
 coverpicture: coverpic-activities
 ---

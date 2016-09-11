@@ -1,6 +1,6 @@
 ---
 title: Surfing
-layout: page
+layout: activities
 permalink: /activities/surfing
 coverpicture: coverpic-activities
 ---

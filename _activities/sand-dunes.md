@@ -1,6 +1,6 @@
 ---
 title: Get Sandy! At Stockton Sand Dunes
-layout: page
+layout: activities
 permalink: /activities/get-sandy-at-stockton-sand-dunes
 coverpicture: coverpic-activities
 ---

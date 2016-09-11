@@ -1,6 +1,6 @@
 ---
 title: Koalas
-layout: page
+layout: activities
 permalink: /activities/koalas
 coverpicture: coverpic-activities
 ---
