@@ -3,12 +3,8 @@ layout: home
 title: Home
 permalink: /
 redirect_from: /Home
-coverpicture: coverpic_home
+coverpicture: coverpic-home
 images:
- - file: location/ours/allyn-sign.jpg
- - file: home/relax.jpg
- - file: dogs/bo.jpg
-   title: Dogs on holidays
  
 ---
 

@@ -22,4 +22,4 @@ features:
 ## Deluxe Double
 Designed specifically for couples, Deluxe Doubles feature a private verandah with table and chairs overlooking the rainforest gardens, ensuite bathroom, and mini-kitchenette. With solid wood furnishings, simple yet stylish décor, and a polished timber floor, these rooms are naturally impressive.
 
-<img class="col-lg-4 img-responsive" src="/img/bungalows/deluxedouble.jpg">
+<img class="col-lg-4 img-responsive" src="/img/800/deluxedouble.jpg">
