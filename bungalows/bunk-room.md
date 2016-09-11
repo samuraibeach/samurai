@@ -1,4 +1,5 @@
 ---
+title: Backpacker Bunk Rooms
 layout: bungalows
 parent: /bungalows
 permalink: /bungalows/bunk-room

@@ -1,4 +1,5 @@
 ---
+title: Deluxe Double
 layout: bungalows
 parent: /bungalows
 permalink: /bungalows/deluxe-double

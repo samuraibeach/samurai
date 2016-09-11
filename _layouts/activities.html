@@ -13,8 +13,20 @@ layout: default
     <div class="row">
         <div class="col-md-7 col-md-offset-1">
             {{ content }}
+            {% if page.url == "/activities/" %}
+                <h2>Seasonal activities</h2>
+                {% for activity in site.activities %}
+                    {% if activity.seasonal == "now" %}
+                    <div class="col-md-3">
+                        <h3><a href="{{ activity.permalink }}">{{ activity.title }}</a></h3>
+                        <p>{{ activity.description }}</p>
+                    </div>
+                    {% endif %}
+                {% endfor %}
+            {% endif %}
         </div>
         <div class="col-md-3">
+            <h3>Activities & Places</h3>
             <ul>
                 {% for activity in site.activities %}
                 <li><a href="{{ activity.permalink }}">{{ activity.title }}</a></li>

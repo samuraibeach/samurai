@@ -1,4 +1,5 @@
 ---
+title: Family Room
 layout: bungalows
 parent: /bungalows
 permalink: /bungalows/family-room
