@@ -1,11 +1,14 @@
 ---
 layout: default
 ---
-<div class="cover {{ page.coverpicture }}">
-    <img class="img-responsive" style="padding-top:100px;margin-left:50px;width:400px;" src="{{ site.github.url }}/img/logo.svg">
-</div>
-
 <div class="container-fluid">
+    <div class="row">
+        <div class="cover {{ page.coverpicture }}">
+            <img class="img-responsive pull-right" style="padding-top:100px;margin-left:50px;width:400px;" src="{{ site.github.url }}/img/logo/logo.svg">
+        </div>
+    </div>
+</div>
+<div class="container">
     <div class="row">
         <div class="col-md-6">
             {{ content }}
@@ -20,5 +23,10 @@ layout: default
             <hr>
         </div>
     </div>
-
+</div>
+<div class="container-fluid">
+    <div class="row">
+        <div class="cover coverpic-arrival">
+        </div>
+    </div>
 </div>

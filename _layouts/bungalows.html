@@ -7,16 +7,15 @@ layout: default
 
 <div class="container-fluid">
     <div class="row">
-        <div class="col-md-8 col-md-offset-1">
+        <div class="col-md-7 col-md-offset-1">
             {{ content }}
         </div>
-        <div class="col-md-2">
-            {% for image in page.images %}
-            <a href="{{ site.github.url }}/img/{{ image.file }}" title="{{ image.title }}" data-gallery>
-                <img class="img-responsive" src="{{ site.github.url }}/img/thumbnails/{{ image.file }}" alt="{{ image.title }}">
-            </a>
-            <br>
-            {% endfor %}
+        <div class="col-md-3">
+            <ul>
+                {% for feature in page.features %}
+                <li>{{ feature }}</li>
+                {% endfor %}
+            </ul>
         </div>
     </div>
     <div class="row">

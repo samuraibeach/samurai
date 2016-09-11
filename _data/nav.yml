@@ -1,18 +1,18 @@
 - title: "Bungalows"
-  href: "/bungalows/"
+  href: "/bungalows"
   subcategories:
     - subtitle: "Deluxe Double"
-      subhref: "/Bungalows/Deluxe_Double"
+      subhref: "/bungalows/deluxe-double"
     - subtitle: "Family Room"
-      subhref: "/Bungalows/Family_Room"
+      subhref: "/bungalows/family-room"
     - subtitle: "Bunk Room"
-      subhref: "/Bungalows/Bunk_Room"
+      subhref: "/bungalows/bunk-room"
 
 - title: "Facilities"
-  href: "/Facilities"
+  href: "/facilities"
 
 - title: "Activities"
-  href: "/Activities"
+  href: "/activities"
 
-- title: "Directions"
-  href: "/Directions"
+#- title: "Directions"
+#  href: "/directions"

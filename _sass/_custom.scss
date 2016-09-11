@@ -2,31 +2,18 @@ body {
   padding-top: 40px;
 }
 
-.navbar-default .navbar-nav > li > a {
-  color: #ffffff;
-  font-weight: bold;
-}
-
 #navbar-main{
   font-size:25px;
 }
 
-.coverpic7{
-  background: rgba(0, 0, 0, 0.1) url(/img/cover/poolandbo.jpg);
-}
-
-.arrival{
-  background: rgba(0, 0, 0, 0.1) url(/img/cover/arrival.jpg);
-}
-
 .cover {
-  margin-top: -40px;
-  background-position: center top;
-  background-repeat: no-repeat;
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
-  background-size: cover;
+  margin-top: -50px;
+  background-position: center center;
+  background-repeat: no-repeat !important;
+  -webkit-background-size: cover !important;
+  -moz-background-size: cover !important;
+  -o-background-size: cover !important;
+  background-size: cover !important;
   height: 550px;
   margin-bottom:15px;
 }
@@ -48,18 +35,20 @@ body {
 }
 
 .booking-widget-container {
-  position: relative;
-  padding-bottom: 55%;
-  height: 0;
-  overflow: scroll;
+  padding-top: 15px;
 }
 
-.booking-widget-container iframe{
-  position: absolute;
-  top:0;
-  left: 0;
-  width: 100%;
-  height: 100%;
+.booking-widget-container input.btn-success{
+  border-top-left-radius: 0;
+  border-bottom-left-radius: 0;
+  height:28px;
+}
+
+.form-group-booking{
+  width:220px;
+}
+.form-group-booking input{
+  padding-left: 8px;
 }
 
 .google-maps {

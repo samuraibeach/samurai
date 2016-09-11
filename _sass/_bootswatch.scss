@@ -2,16 +2,15 @@
 // Bootswatch
 // -----------------------------------------------------
 
-$web-font-path: "https://fonts.googleapis.com/css?family=Roboto:400,500" !default;
+$web-font-path: "https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,600" !default;
 @import url($web-font-path);
 
 // Navbar =====================================================================
 
 .sandstone {
-  font-size: 11px;
+  font-size: 14px;
   line-height: 22px;
   font-weight: 500;
-  text-transform: uppercase;
 }
 
 .navbar {
@@ -57,7 +56,6 @@ input,
   @include box-shadow(none);
 
   &:focus {
-    border-color: $input-border;
     @include box-shadow(none);
   }
 }
