@@ -2,6 +2,7 @@
 title: Riding on the Beach
 layout: activities
 permalink: /activities/riding-on-the-beach
+redirect_from: /Activities/article/riding-on-the-beach/
 coverpicture: coverpic-activities
 ---
 

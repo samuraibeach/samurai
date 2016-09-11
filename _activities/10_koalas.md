@@ -2,6 +2,7 @@
 title: Koalas
 layout: activities
 permalink: /activities/koalas
+redirect_from: /Activities/article/koalas/
 coverpicture: coverpic-activities
 ---
 
