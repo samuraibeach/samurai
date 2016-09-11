@@ -4,7 +4,7 @@
 - classname: "coverpic7"
   image: "poolandbo.jpg"
 
-- classname: "coverpic_home"
+- classname: "coverpic-home"
   image: "balcony.jpg"
 
 - classname: "coverpic-arrival"
