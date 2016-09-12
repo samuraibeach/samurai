@@ -10,7 +10,7 @@ layout: default
     </div>
 </div>
 
-<div class="container-fluid">
+<div class="container">
     <div class="row">
         <div class="col-md-7 col-md-offset-1">
             {{ content }}
@@ -25,7 +25,7 @@ layout: default
     </div>
     <div class="row">
         <div class="col-md-10 col-md-offset-1">
-
+            <h3>Overview</h3>
             {% for image in page.images_bottom %}
             <a href="{{ site.github.url }}/img/{{ image.file }}" title="{{ image.title }}" data-gallery>
                 <img class="hidden-xs hidden-sm col-md-2 img-responsive" src="{{ site.github.url }}/img/thumbnails/{{ image.file }}" alt="{{ image.title }}">
