@@ -4,6 +4,7 @@ layout: activities
 permalink: /activities/dolphin-watching
 redirect_from: /Activities/article/dolphin-watching/
 coverpicture: coverpic-activities
+parent: /activities/
 seasonal: now
 ---
 

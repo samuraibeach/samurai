@@ -3,6 +3,7 @@ title: Kayaking
 layout: activities
 permalink: /activities/kayaking
 redirect_from: /Activities/article/kayaking/
+parent: /activities/
 coverpicture: coverpic-activities
 ---
 

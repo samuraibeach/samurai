@@ -9,21 +9,24 @@ layout: default
         </div>
     </div>
 </div>
-<div class="container-fluid">
+<div class="container">
     <div class="row">
-        <div class="col-md-7 col-md-offset-1">
-            {{ content }}
-            {% if page.url == "/activities" %}
+        <div class="col-md-9">
+            {% if page.url == "/activities/" %}
+            <div class="row">
                 <h2>Seasonal activities</h2>
                 {% for activity in site.activities %}
-                    {% if activity.seasonal == "now" %}
-                    <div class="col-md-3">
-                        <h3><a href="{{ activity.permalink }}">{{ activity.title }}</a></h3>
-                        <p>{{ activity.description }}</p>
-                    </div>
-                    {% endif %}
+                {% if activity.seasonal == "now" %}
+                <div class="col-md-3">
+                    <h3><a href="{{ activity.permalink }}">{{ activity.title }}</a></h3>
+                    <p>{{ activity.description }}</p>
+                </div>
+                {% endif %}
                 {% endfor %}
+            </div>
             {% endif %}
+            <hr>
+            {{ content }}
         </div>
         <div class="col-md-3">
             <h3>Activities & Places</h3>

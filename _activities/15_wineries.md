@@ -3,6 +3,7 @@ title: Wineries
 layout: activities
 permalink: /activities/wineries
 redirect_from: /Activities/article/wineries/
+parent: /activities/
 coverpicture: coverpic-activities
 ---
 

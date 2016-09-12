@@ -3,6 +3,7 @@ title: Surfing
 layout: activities
 permalink: /activities/surfing
 redirect_from: /Activities/article/surfing/
+parent: /activities/
 coverpicture: coverpic-activities
 ---
 

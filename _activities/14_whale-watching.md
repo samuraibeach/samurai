@@ -3,6 +3,7 @@ title: Whale Watching
 layout: activities
 permalink: /activities/whale-watching
 redirect_from: /Activities/article/whale-cruises/
+parent: /activities/
 coverpicture: coverpic-activities
 seasonal: now
 ---

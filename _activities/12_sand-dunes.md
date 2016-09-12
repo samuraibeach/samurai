@@ -3,6 +3,7 @@ title: Get Sandy! At Stockton Sand Dunes
 layout: activities
 permalink: /activities/get-sandy-at-stockton-sand-dunes
 redirect_from: /Activities/article/get-sandy-at-stockton-sand-dunes/
+parent: /activities/
 coverpicture: coverpic-activities
 ---
 

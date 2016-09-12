@@ -16,14 +16,16 @@ layout: default
         </div>
         <div class="col-md-4 col-md-push-1">
             <h2>Seasonal activities</h2>
-            {% for activity in site.activities %}
-            {% if activity.seasonal == "now" %}
-            <div class="col-md-3">
-                <h3><a href="{{ activity.permalink }}">{{ activity.title }}</a></h3>
-                <p>{{ activity.description }}</p>
+            <div class="row">
+                {% for activity in site.activities %}
+                {% if activity.seasonal == "now" %}
+                <div class="col-md-4">
+                    <h3><a href="{{ activity.permalink }}">{{ activity.title }}</a></h3>
+                    <p>{{ activity.description }}</p>
+                </div>
+                {% endif %}
+                {% endfor %}
             </div>
-            {% endif %}
-            {% endfor %}
         </div>
     </div>
 </div>
