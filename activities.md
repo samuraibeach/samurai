@@ -1,7 +1,7 @@
 ---
 layout: activities
 permalink: /activities/
-coverpicture: coverpic-activities
+coverpicture: coverpic-sunset-birubi
 ---
 
 ### Port Stephens

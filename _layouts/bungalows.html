@@ -9,13 +9,12 @@ layout: default
         </div>
     </div>
 </div>
-
 <div class="container">
     <div class="row">
-        <div class="col-md-7 col-md-offset-1">
+        <div class="col-md-8">
             {{ content }}
         </div>
-        <div class="col-md-3">
+        <div class="col-md-4">
             <h3>Overview</h3>
             <ul>
                 {% for feature in page.features %}
@@ -25,16 +24,15 @@ layout: default
         </div>
     </div>
     <div class="row">
-        <div class="col-md-10 col-md-offset-1">
-            {% for image in page.images_bottom %}
-            <a href="{{ site.github.url }}/img/{{ image.file }}" title="{{ image.title }}" data-gallery>
-                <img class="hidden-xs hidden-sm col-md-2 img-responsive" src="{{ site.github.url }}/img/thumbnails/{{ image.file }}" alt="{{ image.title }}">
-                <img class="hidden-lg hidden-md img-responsive" src="{{ site.github.url }}/img/thumbnails/{{ image.file }}" alt="{{ image.title }}">
+        <div class="col-md-12">
+            {% for image in page.gallery %}
+            <a href="{{ site.github.url }}/img/800/{{ image.file }}" title="{{ image.title }}" data-gallery>
+                <img class="hidden-xs hidden-sm col-md-3 img-responsive" src="{{ site.github.url }}/img/480/{{ image.file }}" alt="{{ image.title }}">
+                <img class="hidden-lg hidden-md img-responsive" src="{{ site.github.url }}/img/480/{{ image.file }}" alt="{{ image.title }}">
             </a>
             <br class="hidden-lg hidden-md">
             {% endfor %}
             <br><br>
         </div>
     </div>
-
 </div>

@@ -21,7 +21,12 @@ layout: default
                 {% if activity.seasonal == "now" %}
                 <div class="col-md-4">
                     <h3><a href="{{ activity.permalink }}">{{ activity.title }}</a></h3>
-                    <p>{{ activity.description }}</p>
+                    {% assign firstGalleryImage = activity.gallery | first %}
+                    <p>{{ activity.description }}
+                        {% if firstGalleryImage %}
+                        <img class="img-responsive img-circle" src="/img/480/{{firstGalleryImage.file}}" title="{{firstGalleryImage.title}}">
+                        {% endif %}
+                    </p>
                 </div>
                 {% endif %}
                 {% endfor %}

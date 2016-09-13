@@ -4,7 +4,7 @@ layout: activities
 permalink: /activities/beaches
 redirect_from: /Activities/article/beaches/
 parent: /activities/
-coverpicture: coverpic-activities
+coverpicture: coverpic-beach-sunset
 ---
 
 ### Beaches

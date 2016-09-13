@@ -1,32 +1,44 @@
-- classname: "activities"
-  image: "activities.jpg"
+- classname: activities
+  image: activities.jpg
 
-- classname: "coverpic7"
-  image: "poolandbo.jpg"
+- classname: coverpic7
+  image: poolandbo.jpg
 
-- classname: "coverpic-home"
-  image: "balcony.jpg"
+- classname: coverpic-home
+  image: balcony.jpg
 
-- classname: "coverpic-arrival"
-  image: "arrival.jpg"
+- classname: coverpic-arrival
+  image: arrival.jpg
 
-- classname: "coverpic-pool"
-  image: "poolandbo.jpg"
+- classname: coverpic-pool
+  image: poolandbo.jpg
 
-- classname: "coverpic-bungalow"
-  image: "balconyview.jpg"
+- classname: coverpic-bungalow
+  image: balconyview.jpg
 
-- classname: "coverpic-activities"
-  image: "fingal-spit-sort-stephens.jpg"
+- classname: coverpic-activities
+  image: fingal-spit-sort-stephens.jpg
 
-- classname: "coverpic-facilities"
-  image: "campfire1.jpg"
+- classname: coverpic-facilities
+  image: campfire1.jpg
 
-- classname: "coverpic-bunkroom"
-  image: "balconyseat.jpg"
+- classname: coverpic-bunkroom
+  image: balconyseat.jpg
 
-- classname: "coverpic-campfire"
-  image: "campfire.jpg"
+- classname: coverpic-campfire
+  image: campfire.jpg
 
-- classname: "coverpic-family-room"
-  image: "familyroom.jpg"
+- classname: coverpic-family-room
+  image: familyroom.jpg
+
+- classname: coverpic-port-stephens-aerial
+  image: port-tephens-aerial.jpg
+
+- classname: coverpic-beach-sunset
+  image: landscape.jpg
+
+- classname: coverpic-beach-sunset-one-mile
+  image: landscape.jpg
+
+- classname: coverpic-sunset-birubi
+  image: birubisunset-cropped.jpg

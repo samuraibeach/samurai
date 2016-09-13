@@ -13,7 +13,10 @@ features:
  - Fan in Summer, heater and hot water bottles available in winter
  - Free Coffee, tea, sugar, and cooking necessities in Bush Kitchen
  - Free Use of sandboards, bodyboards, luggage storage, pool table, Skype equipment, DVD library, book exchange, mail services, and heaps more
- - For Hire: Towels - $2, Wireless Internet - $5 per day
+ - "For Hire: Towels - $2, Wireless Internet - $5 per day"
+gallery:
+ - title: Bunk Rooms
+   file: balcony.jpg
 ---
 
 ### Backpacker Bunk Rooms

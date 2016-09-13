@@ -4,6 +4,9 @@ layout: activities
 permalink: /activities/whale-watching
 redirect_from: /Activities/article/whale-cruises/
 parent: /activities/
+gallery:
+ - title: Whale Jumping
+   file: PrintzOfWhales-0.jpg
 coverpicture: coverpic-activities
 seasonal: now
 ---

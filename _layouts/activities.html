@@ -19,7 +19,12 @@ layout: default
                 {% if activity.seasonal == "now" %}
                 <div class="col-md-3">
                     <h3><a href="{{ activity.permalink }}">{{ activity.title }}</a></h3>
-                    <p>{{ activity.description }}</p>
+                    {% assign firstGalleryImage = activity.gallery | first %}
+                    <p>{{ activity.description }}
+                        {% if firstGalleryImage %}
+                        <img class="img-responsive img-circle" src="/img/480/{{firstGalleryImage.file}}" title="{{firstGalleryImage.title}}">
+                        {% endif %}
+                    </p>
                 </div>
                 {% endif %}
                 {% endfor %}
@@ -37,18 +42,9 @@ layout: default
             </ul>
         </div>
     </div>
-    <div class="row">
-        <div class="col-md-10 col-md-offset-1">
-
-            {% for image in page.images_bottom %}
-            <a href="{{ site.github.url }}/img/{{ image.file }}" title="{{ image.title }}" data-gallery>
-                <img class="hidden-xs hidden-sm col-md-2 img-responsive" src="{{ site.github.url }}/img/thumbnails/{{ image.file }}" alt="{{ image.title }}">
-                <img class="hidden-lg hidden-md img-responsive" src="{{ site.github.url }}/img/thumbnails/{{ image.file }}" alt="{{ image.title }}">
-            </a>
-            <br class="hidden-lg hidden-md">
-            {% endfor %}
-            <br><br>
-        </div>
-    </div>
-
+    {% for image in page.gallery %}
+    <a href="{{ site.github.url }}/img/800/{{ image.file }}" title="{{ image.title }}" data-gallery>
+        <img class="img-responsive" src="{{ site.github.url }}/img/480/{{ image.file }}" alt="{{ image.title }}">
+    </a>
+    {% endfor %}
 </div>
