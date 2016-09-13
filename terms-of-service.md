@@ -3,7 +3,6 @@ title: Site Terms and Conditions of Use
 layout: page
 permalink: /terms-of-service
 redirect_from: /Home/Specials
-coverpicture: coverpic-terms-of-service
 ---
 
 ### Site Terms and Conditions of Use
