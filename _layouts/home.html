@@ -24,7 +24,7 @@ layout: default
                     {% assign firstGalleryImage = activity.gallery | first %}
                     <p>{{ activity.description }}
                         {% if firstGalleryImage %}
-                        <img class="img-responsive img-circle" src="/img/480/{{firstGalleryImage.file}}" title="{{firstGalleryImage.title}}">
+                        <img class="img-responsive img-circle" src="/img/480/{{firstGalleryImage.file}}" title="{{firstGalleryImage.title}}" alt="{{firstGalleryImage.title}}">
                         {% endif %}
                     </p>
                 </div>

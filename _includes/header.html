@@ -2,9 +2,9 @@
     <div class="container">
         <div class="navbar-header">
             <a href="{{ site.github.url }}/">
-                <img class="img-responsive logo" style="display:inline-block;padding-left:2px;height:50px;" src="{{ site.github.url }}/img/logo/logo-grey.svg">
+                <img class="img-responsive logo" alt="Samurai" style="display:inline-block;padding-left:2px;height:50px;" src="{{ site.github.url }}/img/logo/logo-grey.svg">
             </a>
-            <button class="navbar-toggle" type="button" data-toggle="collapse" data-target="#navbar-main">
+            <button class="navbar-toggle" type="button" data-toggle="collapse" data-target="#navbar-main" title="toggle menu">
                 <span class="icon-bar"></span>
                 <span class="icon-bar"></span>
                 <span class="icon-bar"></span>
@@ -45,10 +45,10 @@
                 <li class="booking-widget-container">
                     <form id="bookNow" method="get" target="_blank" action="https://apac.littlehotelier.com/properties/samurai-beach-bungalows">
                         <div class="row form-group-booking">
-                                <input class="col-xs-4" type="text" placeholder="Arrival date" id="checkInDate" name="check_in_date" data-date-format="yyyy-mm-dd" data-provide="datepicker" data-today-highlight="true">
-                                <input class="col-xs-6" type="text" class="small" placeholder="Number of nights" id="numberOfNights">
+                                <input class="col-xs-4" type="text" placeholder="Arrival date" id="checkInDate" name="check_in_date" data-date-format="yyyy-mm-dd" data-provide="datepicker" data-today-highlight="true" title="Check in date">
+                                <input class="col-xs-6" type="text" class="small" placeholder="Number of nights" id="numberOfNights" title="Number of nights">
                                 <input type="hidden" name="check_out_date" id="checkOutDate" value="">
-                                <input class="col-xs-2 btn btn-xs btn-success" type="submit" value="Book">
+                                <input class="col-xs-2 btn btn-xs btn-success" type="submit" value="Book" title="Check availability">
                         </div>
                     </form>
                 </li>

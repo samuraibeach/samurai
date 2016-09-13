@@ -44,7 +44,7 @@ layout: default
     </div>
     {% for image in page.gallery %}
     <a href="{{ site.github.url }}/img/800/{{ image.file }}" title="{{ image.title }}" data-gallery>
-        <img class="img-responsive" src="{{ site.github.url }}/img/480/{{ image.file }}" alt="{{ image.title }}">
+        <img class="img-responsive" src="{{ site.github.url }}/img/480/{{ image.file }}" alt="{{ image.title }}" title="{{ image.title }}">
     </a>
     {% endfor %}
 </div>
