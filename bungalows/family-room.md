@@ -21,8 +21,7 @@ features:
 gallery:
  - title: Family Room
    file: familyroom.jpg
- - title: Standard Family Room
-   file: standardroom.jpg
+
 ---
 ### Family Room
 SAMURAI Backpackers Resort Family Rooms are multi-purpose and may be booked for Twin, Triple, Quad or Family accommodation.

@@ -13,26 +13,27 @@ layout: default
     <div class="row">
         <div class="col-md-8">
             {{ content }}
+            <div class="row-fluid">
+                <div class="col-md-12">
+                    <br><br>
+                    {% for image in page.gallery %}
+                    <a href="{{ site.github.url }}/img/800/{{ image.file }}" title="{{ image.title }}" data-gallery>
+                        <img class="hidden-xs hidden-sm col-md-4 img-responsive" src="{{ site.github.url }}/img/480/{{ image.file }}" alt="{{ image.title }}">
+                        <img class="hidden-lg hidden-md img-responsive" src="{{ site.github.url }}/img/480/{{ image.file }}" alt="{{ image.title }}">
+                    </a>
+                    <br class="hidden-lg hidden-md">
+                    {% endfor %}
+                </div>
+            </div>
         </div>
         <div class="col-md-4">
             <h3>Overview</h3>
-            <ul>
+            <ul class="list-group">
                 {% for feature in page.features %}
-                <li>{{ feature }}</li>
+                <li class="list-group-item">{{ feature }}</li>
                 {% endfor %}
             </ul>
         </div>
     </div>
-    <div class="row">
-        <div class="col-md-12">
-            {% for image in page.gallery %}
-            <a href="{{ site.github.url }}/img/800/{{ image.file }}" title="{{ image.title }}" data-gallery>
-                <img class="hidden-xs hidden-sm col-md-3 img-responsive" src="{{ site.github.url }}/img/480/{{ image.file }}" alt="{{ image.title }}">
-                <img class="hidden-lg hidden-md img-responsive" src="{{ site.github.url }}/img/480/{{ image.file }}" alt="{{ image.title }}">
-            </a>
-            <br class="hidden-lg hidden-md">
-            {% endfor %}
-            <br><br>
-        </div>
-    </div>
+
 </div>
