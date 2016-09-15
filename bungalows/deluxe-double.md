@@ -19,6 +19,22 @@ features:
  - All linen including towels is provided
  
 gallery:
+ - title: Balcony
+   file: deluxebalcony.jpg
+ - title: Deluxe Double
+   file: deluxedouble.jpg
+ - title: Balcony
+   file: deluxebalcony.jpg
+ - title: Deluxe Double
+   file: deluxedouble.jpg
+   width: 6
+ - title: Deluxe Bed
+   file: deluxe-bed.jpg
+ - title: Deluxe Double
+   file: deluxedouble.jpg
+ - title: Balcony
+   file: deluxebalcony.jpg
+   width: 5
  - title: Deluxe Double
    file: deluxedouble.jpg
  - title: Balcony

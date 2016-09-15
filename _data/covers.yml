@@ -28,8 +28,8 @@
 - classname: coverpic-campfire
   image: campfire.jpg
 
-- classname: coverpic-family-room
-  image: familyroom.jpg
+- classname: coverpic-standard-room
+  image: standardroom.jpg
 
 - classname: coverpic-port-stephens-aerial
   image: port-tephens-aerial.jpg

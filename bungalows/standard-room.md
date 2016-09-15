@@ -2,8 +2,8 @@
 title: Family Room
 layout: bungalows
 parent: /bungalows
-permalink: /bungalows/family-room
-coverpicture: coverpic-family-room
+permalink: /bungalows/standard-room
+coverpicture: coverpic-standard-room
 redirect_from: /Bungalows/Family_Room/
 features:
  - Double Bed and set of bunks
@@ -19,10 +19,16 @@ features:
  - "Forgot Your towel? Hire one at reception for $2"
  
 gallery:
- - title: Family Room
-   file: familyroom.jpg
-
+ - title: Standard Room
+   file: standardroom.jpg
+   width: 6
+ - title: Balcony Seat
+   file: balconyseat.jpg
+ - title: Balcony Seat
+   file: balconyseat.jpg
+ - title: Balcony Seat
+   file: balconyseat.jpg
 ---
-### Family Room
-SAMURAI Backpackers Resort Family Rooms are multi-purpose and may be booked for Twin, Triple, Quad or Family accommodation.
+### Standard Room
+SAMURAI Backpackers Resort Standard Rooms are multi-purpose and may be booked for Twin, Triple, Quad or Family accommodation.
 These rooms share a full length veranda and bathroom with one other room. Private tables, chairs, and wooden benches adorn either side of the veranda with a full bathroom located centrally.

@@ -13,15 +13,12 @@ layout: default
     <div class="row">
         <div class="col-md-8">
             {{ content }}
-            <div class="row-fluid">
+            <div class="row-fluid masonry-container">
                 <div class="col-md-12">
-                    <br><br>
                     {% for image in page.gallery %}
                     <a href="{{ site.github.url }}/img/800/{{ image.file }}" title="{{ image.title }}" data-gallery>
-                        <img class="hidden-xs hidden-sm col-md-4 img-responsive" src="{{ site.github.url }}/img/480/{{ image.file }}" alt="{{ image.title }}">
-                        <img class="hidden-lg hidden-md img-responsive" src="{{ site.github.url }}/img/480/{{ image.file }}" alt="{{ image.title }}">
+                        <img class="img-responsive item thumbnail {% if image.width %}col-md-{{image.width}}{% else %}col-xs-3{% endif %}" src="{{ site.github.url }}/img/480/{{ image.file }}" alt="{{ image.title }}">
                     </a>
-                    <br class="hidden-lg hidden-md">
                     {% endfor %}
                 </div>
             </div>
@@ -33,6 +30,7 @@ layout: default
                 <li class="list-group-item">{{ feature }}</li>
                 {% endfor %}
             </ul>
+
         </div>
     </div>
 

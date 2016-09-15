@@ -5,6 +5,12 @@ permalink: /activities/surfing
 redirect_from: /Activities/article/surfing/
 parent: /activities/
 coverpicture: coverpic-activities
+gallery:
+ - title: Surf Girls
+   width: 8
+   file: surfgirls.jpg
+ - title: One Mile Beach sunset
+   file: landscape.jpg
 ---
 
 ### Surfing
