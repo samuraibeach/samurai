@@ -7,6 +7,7 @@
 {% for cover in site.data.covers %}
 .{{cover.classname}}{
   background: url(/img/1400/{{cover.image}});
+ {% if cover.background-y %}background-position-y: {{cover.background-y}}{% else %}0px{% endif %};
 }
 {% endfor %}
 

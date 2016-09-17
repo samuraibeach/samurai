@@ -13,26 +13,28 @@
 - classname: coverpic-pool
   image: poolandbo.jpg
 
-- classname: coverpic-bungalow
-  image: balconyview.jpg
-
 - classname: coverpic-activities
   image: fingal-spit-sort-stephens.jpg
 
 - classname: coverpic-facilities
   image: campfire1.jpg
+  background-y: 65%
+
+- classname: coverpic-deluxe-double
+  image: balconyview.jpg
+  background-y: 52%
 
 - classname: coverpic-bunkroom
   image: balconyseat.jpg
-
-- classname: coverpic-campfire
-  image: campfire.jpg
 
 - classname: coverpic-standard-room
   image: standardroom.jpg
 
 - classname: coverpic-port-stephens-aerial
   image: port-tephens-aerial.jpg
+
+- classname: coverpic-campfire
+  image: campfire.jpg
 
 - classname: coverpic-beach-sunset
   image: landscape.jpg

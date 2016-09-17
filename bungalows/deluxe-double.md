@@ -3,7 +3,7 @@ title: Deluxe Double
 layout: bungalows
 parent: /bungalows
 permalink: /bungalows/deluxe-double
-coverpicture: coverpic-bungalow
+coverpicture: coverpic-deluxe-double
 redirect_from: /Bungalows/Deluxe_Double/
 features:
  - Double Bed dressed with quality linens
