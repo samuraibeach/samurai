@@ -4,9 +4,7 @@ header: big
 ---
 <div class="container-fluid">
     <div class="row">
-        <div class="col-md-12 {{ page.coverpicture }} bgimage" data-horizontal-value="{{page.cover.horizontal}}"
-             data-vertical-value="{{page.cover.vertical}}">
-            <img class="img-responsive hidden-xs" alt="Samurai" style="height:250px;position:absolute;" src="{{ site.github.url }}/img/logo/logo-grey.svg">
+        <div class="col-md-12 {{ page.coverpicture }} bgimage">
             <div class="bgimage-inside"></div>
         </div>
     </div>
@@ -16,7 +14,7 @@ header: big
         <div class="col-md-6">
             {{ content }}
         </div>
-        <div class="col-md-4 col-md-push-1">
+        <div class="col-md-3">
             <h2>Seasonal activities</h2>
             <div class="row">
                 {% for activity in site.activities %}
@@ -26,7 +24,7 @@ header: big
                     {% assign firstGalleryImage = activity.gallery | first %}
                     <p>{{ activity.description }}
                         {% if firstGalleryImage %}
-                        <img class="img-responsive img-circle" src="/img/480/{{firstGalleryImage.file}}" title="{{firstGalleryImage.title}}" alt="{{firstGalleryImage.title}}">
+                        <img class="img-responsive" src="/img/480/{{firstGalleryImage.file}}" title="{{firstGalleryImage.title}}" alt="{{firstGalleryImage.title}}">
                         {% endif %}
                     </p>
                 </div>
@@ -34,6 +32,15 @@ header: big
                 {% endfor %}
             </div>
         </div>
+        <div id="TA_selfserveprop90" class="TA_selfserveprop col-md-2">
+            <ul id="v4GyqmGO3t8" class="TA_links SBnZQnipwh">
+                <li id="S3FXCMs" class="icIaA36ZOMB3">
+                    <a target="_blank" href="https://www.tripadvisor.com.au/"><img src="https://www.tripadvisor.com.au/img/cdsi/img2/branding/150_logo-11900-2.png" alt="TripAdvisor"/></a>
+                </li>
+            </ul>
+        </div>
+        <script src="https://www.jscache.com/wejs?wtype=selfserveprop&amp;uniq=90&amp;locationId=285538&amp;lang=en_AU&amp;rating=true&amp;nreviews=5&amp;writereviewlink=true&amp;popIdx=false&amp;iswide=false&amp;border=false&amp;display_version=2"></script>
+
     </div>
 </div>
 <hr>
