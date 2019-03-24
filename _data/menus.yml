@@ -12,3 +12,7 @@ header:
   title: Bungalows
   identifier: bungalows
   weight: 1
+
+footer:
+  - url: "/about-us"
+    title: About Us
