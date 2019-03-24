@@ -5,3 +5,5 @@ fields:
 - type: image_gallery
   name: gallery
   label: Images
+pages:
+- test.md
