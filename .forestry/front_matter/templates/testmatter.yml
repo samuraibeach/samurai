@@ -1,4 +1,7 @@
 ---
 label: Testmatter
 hide_body: true
-fields: []
+fields:
+- type: image_gallery
+  name: gallery
+  label: Images
