@@ -1,14 +1,14 @@
 ---
 header:
-  - url: /bungalows
-    title: Bungalows
-    identifier: bungalows
-
-  - url: /facilities
-    title: Facilities
-    identifier: facilities
-
-  - url: /activities/
-    title: Activities
-    identifier: activities
----
+- url: "/activities/"
+  title: Activities
+  identifier: activities
+  weight: 2
+- url: "/facilities"
+  title: Facilities
+  identifier: facilities
+  weight: 3
+- url: "/bungalows"
+  title: Bungalows
+  identifier: bungalows
+  weight: 1
