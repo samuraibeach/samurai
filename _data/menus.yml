@@ -1,0 +1,14 @@
+---
+header:
+  - url: /bungalows
+    title: Bungalows
+    identifier: bungalows
+
+  - url: /facilities
+    title: Facilities
+    identifier: bungalows
+
+  - url: /activities/
+    title: Activities
+    identifier: activities
+---
