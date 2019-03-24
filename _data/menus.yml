@@ -3,11 +3,11 @@ header:
 - url: "/activities/"
   title: Activities
   identifier: activities
-  weight: 2
+  weight: 3
 - url: "/facilities"
   title: Facilities
   identifier: facilities
-  weight: 3
+  weight: 2
 - url: "/bungalows"
   title: Bungalows
   identifier: bungalows
