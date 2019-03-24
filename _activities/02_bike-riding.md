@@ -1,8 +1,9 @@
 ---
 title: Bike riding
-layout: page
-parent: /activities
+layout: activities
+parent: /activities/
 permalink: /activities/bike-riding
+redirect_from: /Activities/article/bike-riding/
 coverpicture: coverpic-activities
 ---
 

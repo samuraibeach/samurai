@@ -10,9 +10,7 @@
 
     $(window).scroll(function () {
         var scrolled = $(document).scrollTop();
-        /*$('.cover').css({
-            'background-position-y': (scrolled / 3).toFixed(2) + 'px'
-        });*/
+        $('.bgimage').css('background-position-y', -(scrolled / 3).toFixed(2) + 'px');
     });
 
     $(document).ready(function () {
@@ -29,6 +27,14 @@
             $("#checkOutDate").val(checkOutDateFormatted);
 
             return true;
+        });
+
+        var $container = $('.masonry-container');
+        $container.imagesLoaded( function () {
+            $container.masonry({
+                columnWidth: '.item',
+                itemSelector: '.item'
+            });
         });
     });
 

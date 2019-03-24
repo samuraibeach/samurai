@@ -1,32 +1,37 @@
 body {
-  padding-top: 40px;
+  padding-top: 0px;
 }
 
 #navbar-main{
   font-size:25px;
 }
 
-.cover {
-  margin-top: -50px;
+.bgimage{
   background-position: center center;
   background-repeat: no-repeat !important;
   -webkit-background-size: cover !important;
   -moz-background-size: cover !important;
   -o-background-size: cover !important;
-  background-size: cover !important;
-  height: 550px;
-  margin-bottom:15px;
+  background-size: 100% !important;
 }
 
-.cover:before {
-  position: absolute;
+.bgimage-inside{
+  padding-top: 37.36%; /* this is actually (426/1140)*100 */
+}
+.inside-bg-item{
+  position:absolute;
+  top:10px;
+  right:20px;
+}
+
+.bgimage:before {
+  position: relative;
   top: 0;
   right: 0;
   bottom: 0;
   left: 0;
   background-color: inherit;
   content: ' ';
-  height: 570px;
 }
 
 #home {
@@ -45,22 +50,26 @@ body {
 }
 
 .form-group-booking{
-  width:220px;
+  width:290px;
 }
 .form-group-booking input{
   padding-left: 8px;
 }
 
-.google-maps {
-  position: relative;
-  padding-bottom: 90%; // (450 ÷ 500 = 0.9 = 90%)
-  height: 0;
-  overflow: hidden;
+img.logo-footer{
+  height: 50px;
 }
-.google-maps iframe {
-  position: absolute;
-  top: 0;
-  left: 0;
-  width: 100%;
-  height: 100%;
+
+.wrapper{
+  margin-top:50px;
+}
+
+.list-group-item{
+  padding: 6px 16px;
+}
+
+@media (max-width: $grid-float-breakpoint) {
+  img.logo {
+    padding-left: 29% !important;
+  }
 }

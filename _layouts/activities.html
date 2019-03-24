@@ -1,35 +1,57 @@
 ---
 layout: default
 ---
-
-<div class="cover {{ page.coverpicture }}">
-</div>
-
 <div class="container-fluid">
     <div class="row">
-        <div class="col-md-7 col-md-offset-1">
-            {{ content }}
+        <div class="col-md-12 {{ page.coverpicture }} bgimage" data-horizontal-value="{{page.cover.horizontal}}"
+             data-vertical-value="{{page.cover.vertical}}">
+            <div class="bgimage-inside"></div>
+        </div>
+    </div>
+</div>
+<div class="container">
+    <div class="row">
+        <div class="col-md-9">
+            {% if page.url == "/activities/" %}
+            <div class="row">
+                <h2>Seasonal activities</h2>
+                {% for activity in site.activities %}
+                {% if activity.seasonal == "now" %}
+                <div class="col-md-3">
+                    <h3><a href="{{ activity.permalink }}">{{ activity.title }}</a></h3>
+                    {% assign firstGalleryImage = activity.gallery | first %}
+                    <p>{{ activity.description }}
+                        {% if firstGalleryImage %}
+                        <img class="img-responsive" src="/img/480/{{firstGalleryImage.file}}" title="{{firstGalleryImage.title}}">
+                        {% endif %}
+                    </p>
+                </div>
+                {% endif %}
+                {% endfor %}
+            </div>
+            {% endif %}
+            <div class="row">
+                <div class="col-md-12">
+                    {{ content }}
+                </div>
+            </div>
+            <div class="row masonry-container">
+                <div class="col-md-12">
+                    {% for image in page.gallery %}
+                    <a href="{{ site.github.url }}/img/800/{{ image.file }}" title="{{ image.title }}" data-gallery>
+                        <img class="img-responsive item thumbnail {% if image.width %}col-xs-{{image.width}}{% else %}col-md-3{% endif %}" src="{{ site.github.url }}/img/480/{{ image.file }}" alt="{{ image.title }}">
+                    </a>
+                    {% endfor %}
+                </div>
+            </div>
         </div>
         <div class="col-md-3">
-            <ul>
+            <h3>Activities & Places</h3>
+            <ul class="list-group">
                 {% for activity in site.activities %}
-                <li>{{ activity.title }}</li>
+                <li class="list-group-item"><a href="{{ activity.permalink }}">{{ activity.title }}</a></li>
                 {% endfor %}
             </ul>
         </div>
     </div>
-    <div class="row">
-        <div class="col-md-10 col-md-offset-1">
-
-            {% for image in page.images_bottom %}
-            <a href="{{ site.github.url }}/img/{{ image.file }}" title="{{ image.title }}" data-gallery>
-                <img class="hidden-xs hidden-sm col-md-2 img-responsive" src="{{ site.github.url }}/img/thumbnails/{{ image.file }}" alt="{{ image.title }}">
-                <img class="hidden-lg hidden-md img-responsive" src="{{ site.github.url }}/img/thumbnails/{{ image.file }}" alt="{{ image.title }}">
-            </a>
-            <br class="hidden-lg hidden-md">
-            {% endfor %}
-            <br><br>
-        </div>
-    </div>
-
 </div>

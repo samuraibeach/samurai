@@ -1,10 +1,11 @@
 ---
 layout: default
+header: big
 ---
 <div class="container-fluid">
     <div class="row">
-        <div class="cover {{ page.coverpicture }}">
-            <img class="img-responsive pull-right" style="padding-top:100px;margin-left:50px;width:400px;" src="{{ site.github.url }}/img/logo/logo.svg">
+        <div class="col-md-12 {{ page.coverpicture }} bgimage">
+            <div class="bgimage-inside"></div>
         </div>
     </div>
 </div>
@@ -13,21 +14,42 @@ layout: default
         <div class="col-md-6">
             {{ content }}
         </div>
-        <div class="col-md-6">
-            {% for image in page.images %}
-            <a href="{{ site.github.url }}/img/{{ image.file }}" data-gallery>
-                <img class="img-responsive" src="{{ site.github.url }}/img/thumbnails/{{ image.file }}">
-            </a>
-            <br>
-            {% endfor %}
-            <hr>
+        <div class="col-md-3">
+            <h2>Seasonal activities</h2>
+            <div class="row">
+                {% for activity in site.activities %}
+                {% if activity.seasonal == "now" %}
+                <div class="col-md-4">
+                    <h3><a href="{{ activity.permalink }}">{{ activity.title }}</a></h3>
+                    {% assign firstGalleryImage = activity.gallery | first %}
+                    <p>{{ activity.description }}
+                        {% if firstGalleryImage %}
+                        <img class="img-responsive" src="/img/480/{{firstGalleryImage.file}}" title="{{firstGalleryImage.title}}" alt="{{firstGalleryImage.title}}">
+                        {% endif %}
+                    </p>
+                </div>
+                {% endif %}
+                {% endfor %}
+            </div>
         </div>
+        <div id="TA_selfserveprop90" class="TA_selfserveprop col-md-2">
+            <ul id="v4GyqmGO3t8" class="TA_links SBnZQnipwh">
+                <li id="S3FXCMs" class="icIaA36ZOMB3">
+                    <a target="_blank" href="https://www.tripadvisor.com.au/"><img src="https://www.tripadvisor.com.au/img/cdsi/img2/branding/150_logo-11900-2.png" alt="TripAdvisor"/></a>
+                </li>
+            </ul>
+        </div>
+        <script src="https://www.jscache.com/wejs?wtype=selfserveprop&amp;uniq=90&amp;locationId=285538&amp;lang=en_AU&amp;rating=true&amp;nreviews=5&amp;writereviewlink=true&amp;popIdx=false&amp;iswide=false&amp;border=false&amp;display_version=2"></script>
+
     </div>
 </div>
-<hr><hr>
+<hr>
+<hr>
+
 <div class="container-fluid">
     <div class="row">
-        <div class="cover coverpic-arrival">
+        <div class="col-md-12 coverpic-arrival bgimage">
+            <div class="bgimage-inside"></div>
         </div>
     </div>
 </div>

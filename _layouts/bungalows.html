@@ -2,33 +2,35 @@
 layout: default
 ---
 
-<div class="cover {{ page.coverpicture }}">
-</div>
-
 <div class="container-fluid">
     <div class="row">
-        <div class="col-md-7 col-md-offset-1">
-            {{ content }}
-        </div>
-        <div class="col-md-3">
-            <ul>
-                {% for feature in page.features %}
-                <li>{{ feature }}</li>
-                {% endfor %}
-            </ul>
+        <div class="col-md-12 {{ page.coverpicture }} bgimage" data-horizontal-value="{{page.cover.horizontal}}" data-vertical-value="{{page.cover.vertical}}">
+            <div class="bgimage-inside"></div>
         </div>
     </div>
+</div>
+<div class="container">
     <div class="row">
-        <div class="col-md-10 col-md-offset-1">
+        <div class="col-md-8">
+            {{ content }}
+            <div class="row-fluid masonry-container">
+                <div class="col-md-12">
+                    {% for image in page.gallery %}
+                    <a href="{{ site.github.url }}/img/800/{{ image.file }}" title="{{ image.title }}" data-gallery>
+                        <img class="img-responsive item thumbnail {% if image.width %}col-md-{{image.width}}{% else %}col-xs-3{% endif %}" src="{{ site.github.url }}/img/480/{{ image.file }}" alt="{{ image.title }}">
+                    </a>
+                    {% endfor %}
+                </div>
+            </div>
+        </div>
+        <div class="col-md-4">
+            <h3>Overview</h3>
+            <ul class="list-group">
+                {% for feature in page.features %}
+                <li class="list-group-item">{{ feature }}</li>
+                {% endfor %}
+            </ul>
 
-            {% for image in page.images_bottom %}
-            <a href="{{ site.github.url }}/img/{{ image.file }}" title="{{ image.title }}" data-gallery>
-                <img class="hidden-xs hidden-sm col-md-2 img-responsive" src="{{ site.github.url }}/img/thumbnails/{{ image.file }}" alt="{{ image.title }}">
-                <img class="hidden-lg hidden-md img-responsive" src="{{ site.github.url }}/img/thumbnails/{{ image.file }}" alt="{{ image.title }}">
-            </a>
-            <br class="hidden-lg hidden-md">
-            {% endfor %}
-            <br><br>
         </div>
     </div>
 

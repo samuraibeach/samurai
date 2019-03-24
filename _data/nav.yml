@@ -3,8 +3,8 @@
   subcategories:
     - subtitle: "Deluxe Double"
       subhref: "/bungalows/deluxe-double"
-    - subtitle: "Family Room"
-      subhref: "/bungalows/family-room"
+    - subtitle: "Standard Room"
+      subhref: "/bungalows/standard-room"
     - subtitle: "Bunk Room"
       subhref: "/bungalows/bunk-room"
 
@@ -12,7 +12,4 @@
   href: "/facilities"
 
 - title: "Activities"
-  href: "/activities"
-
-#- title: "Directions"
-#  href: "/directions"
+  href: "/activities/"
