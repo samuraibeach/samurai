@@ -1,18 +1,14 @@
 ---
 header:
-- url: "/activities/"
-  title: Activities
-  identifier: activities
-  weight: 3
-- url: "/facilities"
-  title: Facilities
-  identifier: facilities
-  weight: 2
 - url: "/bungalows"
   title: Bungalows
   identifier: bungalows
   weight: 1
-
-footer:
-  - url: "/about-us"
-    title: About Us
+- url: "/facilities"
+  title: Facilities
+  identifier: facilities
+  weight: 2
+- url: "/activities/"
+  title: Activities
+  identifier: activities
+  weight: 3

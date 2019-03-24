@@ -1,9 +1,14 @@
 ---
 title: About Samurai Beach Bungalows
 layout: page
-permalink: /about-us
-redirect_from: /AboutUs
+permalink: "/about-us"
+redirect_from: "/AboutUs"
 coverpicture: coverpic-activities
+menu:
+  footer:
+    title: About Us
+    weight: 1
+
 ---
 ### About Samurai Beach Bungalows
  >"The Dream"
@@ -23,5 +28,3 @@ Winner of numerous Tourism Awards, the first of many over 16 years ago , the lat
 </ul>
 </div>
 <script src="https://www.jscache.com/wejs?wtype=certificateOfExcellence&amp;uniq=422&amp;locationId=285538&amp;lang=en_AU&amp;year=2016&amp;display_version=2"></script>
-
-
