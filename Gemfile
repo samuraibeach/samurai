@@ -4,5 +4,4 @@ group :jekyll_plugins do
   gem 'jekyll-redirect-from'
   gem 'jekyll-responsive_image'
   gem 'jekyll-seo-tag'
-  gem 'jekyll-menus'
 end
