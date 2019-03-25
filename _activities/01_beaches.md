@@ -1,12 +1,14 @@
 ---
 title: Beaches
 layout: activities
-permalink: /activities/beaches
-redirect_from: /Activities/article/beaches/
-parent: /activities/
+permalink: "/activities/beaches"
+redirect_from: "/Activities/article/beaches/"
+parent: "/activities/"
 coverpicture: coverpic-beach-sunset
----
+images:
+- "/samurai/image/v1553479758/samurai/jumping.jpg"
 
+---
 ### Beaches
 
 White sand, crystal waters, tidal pools alive with local sea life, and craggy rock outcroppings make the 26 beaches in the Port Stephens area worth exploring...

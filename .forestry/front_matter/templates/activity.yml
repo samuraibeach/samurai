@@ -24,3 +24,5 @@ fields:
   name: images
   label: Images
   description: Gallery
+pages:
+- _activities/01_beaches.md
