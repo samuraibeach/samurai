@@ -1,12 +1,12 @@
 ---
 title: Kayaking
 layout: activities
-permalink: /activities/kayaking
-redirect_from: /Activities/article/kayaking/
-parent: /activities/
+permalink: "/activities/kayaking"
+redirect_from: "/Activities/article/kayaking/"
+parent: "/activities/"
 coverpicture: coverpic-activities
----
 
+---
 ### Kayaking
 Get wet! Kayak the Bay and explore Port Stephens the eco-friendly way...
 
