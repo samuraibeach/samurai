@@ -1,0 +1,22 @@
+---
+label: Activity
+hide_body: false
+fields:
+- type: text
+  name: title
+  label: title
+- type: text
+  name: layout
+  label: layout
+- type: text
+  name: permalink
+  label: permalink
+- type: text
+  name: redirect_from
+  label: redirect_from
+- type: text
+  name: parent
+  label: parent
+- type: text
+  name: coverpicture
+  label: coverpicture
