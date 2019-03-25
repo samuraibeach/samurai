@@ -25,6 +25,7 @@ fields:
   label: Images
   description: Gallery
 pages:
+- _activities/14_whale-watching.md
 - _activities/13_surfing.md
 - _activities/11_riding-on-the-beach.md
 - _activities/10_koalas.md

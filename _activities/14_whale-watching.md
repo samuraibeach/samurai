@@ -1,14 +1,14 @@
 ---
 title: Whale Watching
 layout: activities
-permalink: /activities/whale-watching
-redirect_from: /Activities/article/whale-cruises/
-parent: /activities/
+permalink: "/activities/whale-watching"
+redirect_from: "/Activities/article/whale-cruises/"
+parent: "/activities/"
 images: []
 coverpicture: coverpic-activities
 seasonal: now
----
 
+---
 ### Whale Watching
 Over 12000 whales migrate North/South seasonally, from May to November, past the Port Stephens Coast. Port Stephens is one of the premier Whale Watching destinations on the East Coast.
 
