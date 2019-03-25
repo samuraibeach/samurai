@@ -25,6 +25,7 @@ fields:
   label: Images
   description: Gallery
 pages:
+- _activities/04_diving-and-snorkeling.md
 - _activities/03_bush-walking.md
 - _activities/02_bike-riding.md
 - _activities/01_beaches.md
