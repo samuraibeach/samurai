@@ -1,12 +1,12 @@
 ---
 title: Kingsley Beach
 layout: activities
-permalink: /activities/kingsley-beach
-redirect_from: /Activities/article/kingsley-beach/
-parent: /activities/
+permalink: "/activities/kingsley-beach"
+redirect_from: "/Activities/article/kingsley-beach/"
+parent: "/activities/"
 coverpicture: coverpic-activities
----
 
+---
 ### Kingsley Beach
 
 Kingsley Beach is one of our favourite little beaches, hidden away inside Tomaree National Park, out near Boat Harbour.
