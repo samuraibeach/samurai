@@ -1,12 +1,12 @@
 ---
 title: Fingal Bay
 layout: activities
-permalink: /activities/fingal-bay
-redirect_from: /Activities/article/fingal-bay/
-parent: /activities/
+permalink: "/activities/fingal-bay"
+redirect_from: "/Activities/article/fingal-bay/"
+parent: "/activities/"
 coverpicture: coverpic-activities
----
 
+---
 ### Fingal Bay
 Fingal Bay is a beautiful little bay, with probably the biggest drawcard the awesome spit connecting to Fingal Island
 
