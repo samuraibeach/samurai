@@ -7,6 +7,7 @@ parent: "/activities/"
 coverpicture: coverpic-beach-sunset
 images:
 - "/v1553481971/samurai/sanddunes.jpg"
+- "/v1553484385/samurai/birubisunset.jpg"
 
 ---
 ### Beaches
