@@ -26,12 +26,11 @@
                 <div class="col-xs-6">
                     <h4><a href="/directions">How to get to us
                     </a></h4>
-                    <ul>
-                        <li><a href="/directions"><img src="/img/map.png" class="img-responsive" style="width:80px;"></a>
-                            2 Robert Connell Close<br>
-                            Anna Bay NSW 2316
-                        </li>
-                    </ul>
+                    <div>
+                        <a href="/directions"><img src="/img/map.png" class="img-responsive" style="width:80px;"></a>
+                        2 Robert Connell Close<br>
+                        Anna Bay NSW 2316
+                    </div>
                 </div>
             </div>
         </div>
@@ -50,9 +49,11 @@
                 <div class="col-xs-6">
                     <br class="hidden-xs">
                     <ul>
-                        <li><a href="/about-us">About Us</a></li>
-                        <li><a href="/specials">Specials</a></li>
-                        <li><a href="/terms-of-service">Terms of service</a></li>
+                        {% for item in site.menus.footer %}
+                        <li>
+                            <a href="{{ item.url }}" title="Go to {{ item.title }}">{{ item.title }}</a>
+                        </li>
+                        {% endfor %}
                         <li>
                             <a target="_blank"
                                href="http://www.yha.com.au/hostels/nsw/mid-north-coast/port-stephens/customer-reviews/">YHA</a>
