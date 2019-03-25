@@ -1,18 +1,18 @@
 ---
 title: Surfing
 layout: activities
-permalink: /activities/surfing
-redirect_from: /Activities/article/surfing/
-parent: /activities/
+permalink: "/activities/surfing"
+redirect_from: "/Activities/article/surfing/"
+parent: "/activities/"
 coverpicture: coverpic-activities
 gallery:
- - title: Surf Girls
-   width: 8
-   file: surfgirls.jpg
- - title: One Mile Beach sunset
-   file: landscape.jpg
----
+- title: Surf Girls
+  width: 8
+  file: surfgirls.jpg
+- title: One Mile Beach sunset
+  file: landscape.jpg
 
+---
 ### Surfing
 Whether it's hanging five or hanging out Port Stephens has some great beaches for surfing.
 

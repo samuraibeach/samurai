@@ -1,12 +1,12 @@
 ---
 title: Fishing
 layout: activities
-permalink: /activities/fishing
-redirect_from: /Activities/article/fishing/
-parent: /activities/
+permalink: "/activities/fishing"
+redirect_from: "/Activities/article/fishing/"
+parent: "/activities/"
 coverpicture: coverpic-activities
----
 
+---
 ### Fishing
 Port Stephens, a fishing paradise. Rocky headlands, breakwalls and beaches, (by 4wd 5 minutes from Samurai to waters edge)
 

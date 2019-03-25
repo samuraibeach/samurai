@@ -1,12 +1,12 @@
 ---
 title: Bike riding
 layout: activities
-parent: /activities/
-permalink: /activities/bike-riding
-redirect_from: /Activities/article/bike-riding/
+parent: "/activities/"
+permalink: "/activities/bike-riding"
+redirect_from: "/Activities/article/bike-riding/"
 coverpicture: coverpic-activities
----
 
+---
 ### Bike riding
 Get on your bike (or ours) and explore the beauty of Port Stephens at your own pace.
 

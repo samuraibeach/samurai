@@ -1,12 +1,12 @@
 ---
 title: Riding on the Beach
 layout: activities
-permalink: /activities/riding-on-the-beach
-redirect_from: /Activities/article/riding-on-the-beach/
-parent: /activities/
+permalink: "/activities/riding-on-the-beach"
+redirect_from: "/Activities/article/riding-on-the-beach/"
+parent: "/activities/"
 coverpicture: coverpic-activities
----
 
+---
 ### Riding on the Beach
 Cantering along the beach with the wind in your hair, no it's not a dream. Come and try it on Stockton Beach, whether on Horseback or Camel back.
 

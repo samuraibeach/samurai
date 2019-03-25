@@ -1,12 +1,13 @@
 ---
 title: Diving and snorkeling
 layout: activities
-permalink: /activities/diving-and-snorkeling-in-port-stephens
-redirect_from: /Activities/article/diving-and-snorkeling/
-parent: /activities/
+permalink: "/activities/diving-and-snorkeling-in-port-stephens"
+redirect_from: "/Activities/article/diving-and-snorkeling/"
+parent: "/activities/"
 coverpicture: coverpic-activities
----
+images: []
 
+---
 ### Diving and snorkeling
 
 Shore and boat dives, padi courses and marine reserves If you are happy to go by yourself Halifax Marine Park found in Nelson Bay is a perfect spot to view some great marine life as it is classed as a marine reserve.
