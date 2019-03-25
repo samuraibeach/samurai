@@ -25,6 +25,7 @@ fields:
   label: Images
   description: Gallery
 pages:
+- _activities/10_koalas.md
 - _activities/09_kingsley-beach.md
 - _activities/08_kayaking.md
 - _activities/12_sand-dunes.md
