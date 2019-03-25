@@ -4,10 +4,6 @@ layout: page
 permalink: "/about-us"
 redirect_from: "/AboutUs"
 coverpicture: coverpic-activities
-menu:
-  footer:
-    title: About Us
-    weight: 1
 
 ---
 ### About Samurai Beach Bungalows
