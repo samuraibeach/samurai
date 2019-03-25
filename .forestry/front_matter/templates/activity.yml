@@ -20,3 +20,7 @@ fields:
 - type: text
   name: coverpicture
   label: coverpicture
+- type: image_gallery
+  name: images
+  label: Images
+  description: Gallery
