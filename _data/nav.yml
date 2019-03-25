@@ -1,0 +1,15 @@
+- title: "Bungalows"
+  href: "/bungalows"
+  subcategories:
+    - subtitle: "Deluxe Double"
+      subhref: "/bungalows/deluxe-double"
+    - subtitle: "Standard Room"
+      subhref: "/bungalows/standard-room"
+    - subtitle: "Bunk Room"
+      subhref: "/bungalows/bunk-room"
+
+- title: "Facilities"
+  href: "/facilities"
+
+- title: "Activities"
+  href: "/activities/"
