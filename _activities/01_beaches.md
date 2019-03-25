@@ -5,7 +5,8 @@ permalink: "/activities/beaches"
 redirect_from: "/Activities/article/beaches/"
 parent: "/activities/"
 coverpicture: coverpic-beach-sunset
-images: []
+images:
+- "/v1553481971/samurai/sanddunes.jpg"
 
 ---
 ### Beaches
