@@ -1,4 +1,8 @@
 ---
+footer:
+- url: "/specials"
+  weight: 2
+  title: Specials
 header:
 - url: "/bungalows"
   title: Bungalows
