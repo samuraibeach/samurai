@@ -12,26 +12,35 @@
         </div>
         <div class="navbar-collapse collapse" id="navbar-main">
             <ul class="nav navbar-nav navbar-left">
-                {% for item in site.menus.header %}
-                    {% if item.children %}
-                    <li class="menu-item-{{ loop.index }} dropdown{% if page.url == item.url or page.parent == item.url%} active{% endif %}">
-                        <a href="{{ item.url }}" title="{{ item.title }}" class="dropdown-toggle" data-toggle="dropdown" data-hover="dropdown">{{ item.title }}<span class="caret"></span></a>
-                        <ul class="dropdown-menu">
-                            {% for item in item.children %}
-                            <li class="menu-item-{{ loop.index }}{% if page.url == item.url %} active{% endif %}">
-                                <a href="{{ item.url }}" title="Go to {{ item.title }}">{{ item.title }}</a>
-                            </li>
-                            {% endfor %}
-                        </ul>
-                    </li>
-                    {% else %}
-                    <li class="menu-item-{{ loop.index }} {% if page.url == item.url or page.parent == item.url %} active{% endif %}">
-                        <a href="{{ item.url }}" title="Go to {{ item.title }}">{{ item.title }}</a>
-                    </li>
-                    {% endif %}
-                {% endfor %}
-            </ul>
+                {% for navpage in site.data.nav %}
 
+                <!-- check to see if the data file has a submenu, and if so display it -->
+                {% if navpage.subcategories != null %}
+                <li class="dropdown{% if page.url == navpage.url or page.parent == navpage.href%} active{% endif %}">
+                    <a href="{{ site.github.url }}{{ navpage.url }}" class="dropdown-toggle" data-toggle="dropdown" data-hover="dropdown">{{ navpage.title }}<span class="caret"></span></a>
+                    <ul class="dropdown-menu">
+                        {% for subcategory in navpage.subcategories %}
+                        {% if subcategory.target != null %}
+                        <li{% if page.url == subcategory.subhref %}class="active"{% endif %}>
+                            <a href="{{ subcategory.subhref }}" target="{{ subcategory.target }}">{{ subcategory.subtitle }}</a>
+                        </li>
+                        {% else %}
+                        <li {% if page.url == subcategory.subhref %} class="active"{% endif %}>
+                            <a href="{{ site.github.url }}{{ subcategory.subhref }}">{{ subcategory.subtitle }}</a>
+                        </li>
+                        {% endif %}
+                        {% endfor %}
+                    </ul>
+                    {% else %}
+
+                    <!— display the top level navigation for items that don’t have a submenu -->
+                <li {% if page.url == navpage.href or page.parent == navpage.href%} class="active"{% endif %}>
+                    <a href="{{ site.github.url }}{{ navpage.href }}">{{ navpage.title }}</a>
+                    {% endif %}
+                </li>
+                {% endfor %}
+
+            </ul>
             <ul class="nav navbar-nav navbar-right">
                 <li class="booking-widget-container">
                     {% include book-now.html %}
