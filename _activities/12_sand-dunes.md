@@ -1,16 +1,16 @@
 ---
 title: Get Sandy! At Stockton Sand Dunes
 layout: activities
-permalink: /activities/get-sandy-at-stockton-sand-dunes
-redirect_from: /Activities/article/get-sandy-at-stockton-sand-dunes/
-parent: /activities/
+permalink: "/activities/get-sandy-at-stockton-sand-dunes"
+redirect_from: "/Activities/article/get-sandy-at-stockton-sand-dunes/"
+parent: "/activities/"
 coverpicture: coverpic-activities
 gallery:
- - title: Sandboarding
-   width: 8
-   file: sandboarding.jpg
----
+- title: Sandboarding
+  width: 8
+  file: sandboarding.jpg
 
+---
 ### Get Sandy! At Stockton Sand Dunes
 
 Where the sand dunes meets the sea... Visit the Stockton Sand Dunes and Worimi Conservation Lands for wild adventures and view spectacular landscapes.
