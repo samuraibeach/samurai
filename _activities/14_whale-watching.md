@@ -4,31 +4,7 @@ layout: activities
 permalink: /activities/whale-watching
 redirect_from: /Activities/article/whale-cruises/
 parent: /activities/
-gallery:
- - title: Whale Jumping
-   file: PrintzOfWhales-0.jpg
-   width: 5
- - title: Whale Jumping
-   file: PrintzOfWhales-1.jpg
-   width: 2
- - title: Whale Jumping
-   file: PrintzOfWhales-2.jpg
- - title: Whale Jumping
-   file: PrintzOfWhales-3.jpg
- - title: Whale Jumping in front of boat
-   width: 5
-   file: PrintzOfWhales-boat.jpg
- - title: Whale Jumping
-   file: PrintzOfWhales-4.jpg
-   width: 2
- - title: Whale Jumping
-   file: PrintzOfWhales-5.jpg
- - title: Whale Jumping
-   file: PrintzOfWhales-6.jpg
-   width: 2
- - title: Whale Jumping
-   file: PrintzOfWhales-7.jpg
-   width: 2
+images: []
 coverpicture: coverpic-activities
 seasonal: now
 ---

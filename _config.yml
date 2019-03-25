@@ -40,6 +40,7 @@ exclude:
   - "*.conf"
   - ".idea/*"
 
+cloudinary_url : https://res.cloudinary.com/samuraibeach/image/upload
 responsive_image:
   # [Required]
   # Path to the image template.
