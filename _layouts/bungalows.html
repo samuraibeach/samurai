@@ -16,7 +16,7 @@ layout: default
             <div class="row-fluid masonry-container">
                 <div class="col-md-12">
                     {% for image in page.gallery %}
-                    <a href="{{ site.github.url }}/img/800/{{ image.file }}" title="{{ image.title }}" data-gallery>
+                    <a href="{{ site.url }}/img/800/{{ image.file }}" title="{{ image.title }}" data-gallery>
                         <img class="img-responsive item thumbnail {% if image.width %}col-md-{{image.width}}{% else %}col-xs-3{% endif %}" src="{{ site.github.url }}/img/480/{{ image.file }}" alt="{{ image.title }}">
                     </a>
                     {% endfor %}
@@ -27,7 +27,7 @@ layout: default
             <h3>Overview</h3>
             <ul class="list-group">
                 {% for feature in page.features %}
-                <li class="list-group-item">{{ feature }}</li>
+                <li class="list-group-item"><span class="glyphicon glyphicon-leaf"></span> {{ feature }}</li>
                 {% endfor %}
             </ul>
 
