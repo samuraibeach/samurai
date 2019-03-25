@@ -12,10 +12,10 @@ sections:
   label: Activities
   create: all
   match: "**/*"
-upload_dir: uploads
-public_path: "/uploads"
-front_matter_path: ''
-use_front_matter_path: false
+upload_dir: samurai
+public_path: samurai
+front_matter_path: "/samurai/image"
+use_front_matter_path: true
 file_template: ":filename:"
 build:
   preview_command: bundle exec jekyll build --drafts --unpublished --future -d _site
