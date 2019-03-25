@@ -1,16 +1,16 @@
 ---
 title: Dolphin Watching
 layout: activities
-permalink: /activities/dolphin-watching
-redirect_from: /Activities/article/dolphin-watching/
+permalink: "/activities/dolphin-watching"
+redirect_from: "/Activities/article/dolphin-watching/"
 coverpicture: coverpic-activities
-parent: /activities/
+parent: "/activities/"
 gallery:
- - title: Dolphins
-   file: dolphins.jpg
+- title: Dolphins
+  file: dolphins.jpg
 seasonal: now
----
 
+---
 ### Dolphin Watching
 
 > Port Stephens is "The Dolphin Capital of Australia."
@@ -26,4 +26,3 @@ At Samurai Backpackers we can book dolphin cruises at ‘backpacker’ discounte
 Imagine: An eco-friendly, 60 ft catamaran with four types of cruises that depart daily. Just cruise on a 1.5 hour dolphin watch, take a dolphin watch plus half day snorkelling trip, go for their special Sundowner Cruises, or dolphin spot at sunset and dine on local fish on their Sunset BBQ cruise. Bonuses: friendly crew who are passionate and informative about Port Stephens Marine life, and spectacular boom nets to lounge in.  
 
 Moonshadow: This large stable vessel is particularly family friendly and Moonshadow offers a variety of fantastic cruises.1.5 hr dolphin watch, fine dining dinner cruise, or the (very affordable) full day Broughton Island cruise that includes snorkelling, feeding stingrays, and a buffet lunch.
-
