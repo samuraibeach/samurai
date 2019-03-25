@@ -1,12 +1,12 @@
 ---
 title: Bush Walking
 layout: activities
-permalink: /activities/bush-walking
-redirect_from: /Activities/article/bush-walking/
-parent: /activities/
+permalink: "/activities/bush-walking"
+redirect_from: "/Activities/article/bush-walking/"
+parent: "/activities/"
 coverpicture: coverpic-activities
----
 
+---
 ### Bush Walking
 
 Your chance to explore the diversity of Tomaree National Park
