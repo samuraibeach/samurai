@@ -8,7 +8,7 @@ sections:
   path: ''
   label: Rooms
   create: documents
-  match: "**/*"
+  match: bungalows/*
   templates:
   - room
 - type: jekyll-pages
