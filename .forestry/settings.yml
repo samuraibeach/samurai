@@ -11,7 +11,7 @@ sections:
   path: bungalows
   label: Rooms
   create: documents
-  match: "**/*.md"
+  match: "*"
   templates:
   - room
 - type: jekyll-pages
