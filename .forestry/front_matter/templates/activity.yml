@@ -25,6 +25,7 @@ fields:
   label: Images
   description: Gallery
 pages:
+- _activities/12_sand-dunes.md
 - _activities/15_wineries.md
 - _activities/14_whale-watching.md
 - _activities/13_surfing.md
@@ -32,7 +33,6 @@ pages:
 - _activities/10_koalas.md
 - _activities/09_kingsley-beach.md
 - _activities/08_kayaking.md
-- _activities/12_sand-dunes.md
 - _activities/07_fishing.md
 - _activities/06_fingal-bay.md
 - _activities/05_dolphin-watching.md

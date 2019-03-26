@@ -9,6 +9,8 @@ gallery:
 - title: Sandboarding
   width: 8
   file: sandboarding.jpg
+images:
+- "/v1553481971/samurai/sanddunes.jpg"
 
 ---
 ### Get Sandy! At Stockton Sand Dunes
