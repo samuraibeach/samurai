@@ -1,22 +1,24 @@
 ---
 title: Backpacker Bunk Rooms
 layout: bungalows
-parent: /bungalows
-permalink: /bungalows/bunk-room
+parent: "/bungalows"
+permalink: "/bungalows/bunk-room"
 coverpicture: coverpic-bunkroom
-redirect_from: /Bungalows/Bunk_Room/
+redirect_from: "/Bungalows/Bunk_Room/"
 features:
- - Two Wooden bunks and single bed—free linens, doonas, and blankets  
- - Adjacent Bathroom—shared with only one other room
- - Open Veranda with garden view, private table and seating
- - Bar Fridge, kettle, clock radio, shared bedside tables
- - Fan in Summer, heater and hot water bottles available in winter
- - Free Coffee, tea, sugar, and cooking necessities in Bush Kitchen
- - Free Use of sandboards, bodyboards, luggage storage, pool table, Skype equipment, DVD library, book exchange, mail services, and heaps more
- - "For Hire: Towels - $2, Wireless Internet - $5 per day"
-images:
----
+- Free WiFi
+- Two Wooden bunks and single bed—free linens, doonas, and blankets
+- Open Veranda with garden view, private table and seating
+- Bar Fridge, kettle, clock radio, shared bedside tables
+- Adjacent Bathroom—shared with only one other room
+- Fan in Summer, heater and hot water bottles available in winter
+- Free Coffee, tea, sugar, and cooking necessities in Bush Kitchen
+- Free Use of sandboards, bodyboards, luggage storage, pool table, Skype equipment,
+  DVD library, book exchange, mail services, and heaps more
+- 'For Hire: Towels - $2'
+images: 
 
+---
 ### Backpacker Bunk Rooms
 
 **SAMURAI YHA Backpackers Resort** is a choice place to hang your backpack for a while. Unwind, meet travellers, and sleep in one of our comfortable Backpacker Bunk Rooms.
