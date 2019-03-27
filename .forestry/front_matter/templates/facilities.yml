@@ -8,3 +8,5 @@ fields:
   label: Sections
   template_types:
   - facility
+pages:
+- facilities.html
