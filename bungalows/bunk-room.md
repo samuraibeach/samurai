@@ -17,6 +17,10 @@ features:
   DVD library, book exchange, mail services, and heaps more
 - 'For Hire: Towels - $2'
 images: 
+gallery:
+- title: Balcony wiew
+  file: "/v1553484385/samurai/birubisunset.jpg"
+  width: 1
 
 ---
 ### Backpacker Bunk Rooms
