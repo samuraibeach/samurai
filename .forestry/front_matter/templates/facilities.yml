@@ -1,15 +1,11 @@
 ---
 label: Sections
-hide_body: true
+hide_body: false
 fields:
 - type: blocks
   name: sections
   label: Sections
   template_types:
   - facility
-- type: include
-  name: template
-  label: template
-  template: facility
 pages:
 - facilities.html
