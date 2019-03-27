@@ -1,7 +1,6 @@
 ---
-label: Facility
+label: Section
 hide_body: false
-display_field: title
 fields:
 - type: text
   name: title
@@ -9,6 +8,10 @@ fields:
 - type: textarea
   name: description
   label: description
+  config:
+    wysiwyg: true
+    schema:
+      format: markdown
 - type: file
   name: image
   label: image
