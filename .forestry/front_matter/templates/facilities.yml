@@ -1,4 +1,7 @@
 ---
 label: Facilities
 hide_body: true
-fields: []
+fields:
+- type: blocks
+  name: sections
+  label: Sections
