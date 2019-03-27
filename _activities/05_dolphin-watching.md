@@ -18,9 +18,7 @@ images: []
 
 Over 150 bottle nose dolphins call Port Stephens waterways 'home.' Aside from being remarkably intelligent and friendly, dolphins have fascinating behaviours and aerobatic abilities.
 
-Wild dolphins, like those found in Port Stephens waterways, are very social creatures, living their whole lives in groups called pods. Dolphins often seek out humans and surf alongside boats just for play; and they love to ride big waves alongside surfers.
-
-Most dolphin watch cruises from the Nelson Bay Marina boast a 99% dolphin sighting success rate and free return cruise if none are spotted. Nelson Bay Marina is easily accessible from Samurai YHA Hostel by car, bus, or bicycle.
+Dolphin watch cruises from the Nelson Bay Marina boast a 99% dolphin sighting success rate and free return cruise if none are spotted. Nelson Bay Marina is easily accessible from Samurai YHA Hostel by car, bus, or bicycle.
 
 At Samurai Backpackers we can book dolphin cruises at ‘backpacker’ discounted rates and we recommend the following companies:
 
