@@ -7,5 +7,9 @@ fields:
   label: Sections
   template_types:
   - facility
+- type: include
+  name: template
+  label: template
+  template: facility
 pages:
 - facilities.html
