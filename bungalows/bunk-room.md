@@ -16,7 +16,10 @@ features:
 - Free Use of sandboards, bodyboards, luggage storage, pool table, Skype equipment,
   DVD library, book exchange, mail services, and heaps more
 - 'For Hire: Towels - $2'
-images: 
+images:
+- title: Room view
+  file: "/v1553484385/samurai/birubisunset.jpg"
+  width: '2'
 gallery:
 - title: Balcony wiew
   file: "/v1553484385/samurai/birubisunset.jpg"
