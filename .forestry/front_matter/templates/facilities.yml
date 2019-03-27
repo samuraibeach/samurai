@@ -1,7 +1,6 @@
 ---
-label: Section
+label: Sections
 hide_body: true
-display_field: sections
 fields:
 - type: blocks
   name: sections
