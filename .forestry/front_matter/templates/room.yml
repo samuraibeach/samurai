@@ -24,8 +24,8 @@ fields:
   name: features
   label: features
 - type: field_group_list
-  name: gallery
-  label: Gallery
+  name: images
+  label: Images
   fields:
   - type: text
     name: title
