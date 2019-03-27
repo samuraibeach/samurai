@@ -17,6 +17,10 @@ sections:
 - type: jekyll-pages
   label: Pages
   create: all
+  templates:
+  - facilities
+  - room
+  - activity
 - type: directory
   path: _activities
   label: Activities
