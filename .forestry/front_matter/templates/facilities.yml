@@ -1,7 +1,10 @@
 ---
-label: Facilities
+label: Facility-Sectio
 hide_body: true
+display_field: sections
 fields:
 - type: blocks
   name: sections
   label: Sections
+  template_types:
+  - activity
