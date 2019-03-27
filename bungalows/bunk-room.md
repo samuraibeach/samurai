@@ -28,9 +28,10 @@ gallery:
 ---
 ### Backpacker Bunk Rooms
 
-**SAMURAI YHA Backpackers Resort** is a choice place to hang your backpack for a while. Unwind, meet travellers, and sleep in one of our comfortable Backpacker Bunk Rooms.
-Fully equipped with backpacker essentials—linens, pillows, doonas, blankets, shared refrigerator, kettle, fan, heater and hot water bottles in winter—these five-share hostel rooms are spacious, clean, cheap, and seriously cosy.
-Relax, chat, or just lounge and enjoy the garden view from the wide veranda; even feed the friendly possum Pete who hangs around. 
+**SAMURAI YHA Backpackers Resort** is a choice place to hang your backpack for a while. Unwind, meet travellers, and sleep in one of our comfortable Backpacker Bunk Rooms. 
 
+Fully equipped with backpacker essentials—linens, pillows, doonas, blankets, shared refrigerator, kettle, fan, heater and hot water bottles in winter—these five or six-share hostel rooms are spacious, clean, cheap, and seriously cosy. 
 
-*Those Under 17 years of age not permitted in Backpacker Bunk Rooms.*
+Relax, chat, or just lounge and enjoy the garden view from the wide verandah; even feed the friendly possum Pete who hangs around.
+
+_Those Under 17 years of age not permitted in Backpacker Bunk Rooms._
