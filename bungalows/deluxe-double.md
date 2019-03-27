@@ -41,6 +41,5 @@ gallery:
 
 ---
 ## Deluxe Double
-Designed specifically for couples, Deluxe Doubles feature a private verandah with table and chairs overlooking the rainforest gardens,
-ensuite bathroom, and mini-kitchenette. With solid wood furnishings, simple yet stylish décor, and a polished timber floor,
-these rooms are naturally impressive.
+
+Designed specifically for couples, Deluxe Doubles feature a private verandah with table and chairs overlooking the rainforest gardens, ensuite bathroom, and mini-kitchenette. With solid wood furnishings, simple yet stylish décor, and a polished timber floor,these rooms are naturally impressive.
