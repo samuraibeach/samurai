@@ -1,6 +1,7 @@
 ---
 title: test
-layout: ''
+layout: default
+permalink: test
 redirect_from: ''
 parent: ''
 coverpicture: ''
