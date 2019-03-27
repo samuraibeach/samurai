@@ -38,3 +38,4 @@ fields:
     label: width
   config:
     labelField: title
+  description: images description
