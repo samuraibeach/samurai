@@ -25,7 +25,7 @@ fields:
   label: features
 - type: field_group_list
   name: gallery
-  label: gallery
+  label: Gallery
   fields:
   - type: text
     name: title
@@ -36,7 +36,5 @@ fields:
   - type: number
     name: width
     label: width
-- type: image_gallery
-  name: images
-  label: images
-  description: Gallery
+  config:
+    labelField: title
