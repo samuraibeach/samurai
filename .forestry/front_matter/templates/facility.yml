@@ -1,4 +1,13 @@
 ---
 label: Facility
 hide_body: false
-fields: []
+fields:
+- type: text
+  name: title
+  label: title
+- type: textarea
+  name: description
+  label: description
+- type: file
+  name: image
+  label: image
