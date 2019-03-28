@@ -1,14 +1,32 @@
 ---
 layout: default
-header: big
 ---
+{% assign firstCover = page.covers | first %}
+{% if firstCover != null %}
+<style scoped>
+    .headerimage {
+        background-image: url('{{ site.cloudinary_url }}/w_1000{{ firstCover.image }}');
+    }
+    @media (min-width: 1600px) {
+        .headerimage {
+            background-image: url('{{ site.cloudinary_url }}/w_1600{{ firstCover.image }}');
+        }
+    }
+    @media (min-width: 1900px) {
+        .headerimage {
+            background-image: url('{{ site.cloudinary_url }}/w_1900{{ firstCover.image }}');
+        }
+    }
+</style>
 <div class="container-fluid">
-    <div class="row">
-        <div class="col-md-12 {{ page.coverpicture }} bgimage">
-            <div class="bgimage-inside"></div>
+    <div class="row" style="background-color:#000000;">
+        <div class="col-md-12 bgimage headerimage">
+            <div class="bgimage-inside">
+            </div>
         </div>
     </div>
 </div>
+{% endif %}
 <div class="container">
     <div class="row">
         <div class="col-md-6">
@@ -46,10 +64,28 @@ header: big
 <hr>
 <hr>
 
+{% assign footerCover = page.covers | last %}
+{% if footerCover != null %}
+<style scoped>
+    .footerimage {
+        background-image: url('{{ site.cloudinary_url }}/w_1000{{ footerCover.image }}');
+    }
+    @media (min-width: 1600px) {
+        .footerimage {
+            background-image: url('{{ site.cloudinary_url }}/w_1600{{ footerCover.image }}');
+        }
+    }
+    @media (min-width: 1900px) {
+        .footerimage {
+            background-image: url('{{ site.cloudinary_url }}/w_1900{{ footerCover.image }}');
+        }
+    }
+</style>
 <div class="container-fluid">
     <div class="row">
-        <div class="col-md-12 coverpic-arrival bgimage">
+        <div class="col-md-12 bgimage footerimage">
             <div class="bgimage-inside"></div>
         </div>
     </div>
 </div>
+{% endif %}

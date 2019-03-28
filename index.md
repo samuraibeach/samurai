@@ -3,9 +3,13 @@ layout: home
 title: Welcome to Samurai Beach Bungalows - Port Stephens YHA Backpackers
 permalink: "/"
 redirect_from: "/Home"
-coverpicture: coverpic-home
-images: 
-
+covers:
+- title: Welcome to SAMURAI
+  description: 'Welcome to Samurai Port Stephens YHA'
+  image: /v1553747847/samurai/cover_balcony.jpg
+- title: Arriving at Samurai
+  description: 'Just arrived'
+  image: /v1553748020/samurai/cover_arrival.jpg
 ---
 ### An oasis for mellow travellers...
 
