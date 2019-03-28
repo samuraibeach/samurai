@@ -15,9 +15,9 @@ layout: default
             {{ content }}
             <div class="row-fluid masonry-container">
                 <div class="col-md-12">
-                    {% for image in page.gallery %}
-                    <a href="{{ site.url }}/img/800/{{ image.file }}" title="{{ image.title }}" data-gallery>
-                        <img class="img-responsive item thumbnail {% if image.width %}col-md-{{image.width}}{% else %}col-xs-3{% endif %}" src="{{ site.github.url }}/img/480/{{ image.file }}" alt="{{ image.title }}">
+                    {% for image in page.images %}
+                    <a href="{{ site.cloudinary_url }}/w_1024{{ image.file }}" title="{{ image.title }}" data-gallery>
+                        <img class="img-responsive item thumbnail {% if image.width %}col-md-{{image.width}}{% else %}col-xs-3{% endif %}" src="{{ site.cloudinary_url }}/w_{{image.width}}20,c_fill{{ image.file }}" alt="{{ image.title }}">
                     </a>
                     {% endfor %}
                 </div>

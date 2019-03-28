@@ -37,9 +37,9 @@ layout: default
             </div>
             <div class="row masonry-container">
                 <div class="col-md-12">
-                    {% for image in page.gallery %}
-                    <a href="{{ site.github.url }}/img/800/{{ image.file }}" title="{{ image.title }}" data-gallery>
-                        <img class="img-responsive item thumbnail {% if image.width %}col-xs-{{image.width}}{% else %}col-md-3{% endif %}" src="{{ site.github.url }}/img/480/{{ image.file }}" alt="{{ image.title }}">
+                    {% for image in page.images %}
+                    <a href="{{ site.cloudinary_url }}/w_1024{{ image }}" data-gallery>
+                        <img class="img-responsive item thumbnail" src="{{ site.cloudinary_url }}/w_220,h_220,c_fill{{ image }}">
                     </a>
                     {% endfor %}
                 </div>
