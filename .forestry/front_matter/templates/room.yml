@@ -16,13 +16,11 @@ fields:
 - type: text
   name: permalink
   label: permalink
+  hidden: true
 - type: text
   name: redirect_from
   label: redirect_from
   hidden: true
-- type: list
-  name: features
-  label: features
 - type: field_group_list
   name: images
   label: Gallery
@@ -46,3 +44,6 @@ fields:
   config:
     labelField: title
   description: add images to gallery
+- type: list
+  name: features
+  label: features
