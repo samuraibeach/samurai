@@ -8,18 +8,18 @@ fields:
 - type: text
   name: layout
   label: layout
+  hidden: true
 - type: text
   name: parent
   label: parent
+  hidden: true
 - type: text
   name: permalink
   label: permalink
 - type: text
-  name: coverpicture
-  label: coverpicture
-- type: text
   name: redirect_from
   label: redirect_from
+  hidden: true
 - type: list
   name: features
   label: features
@@ -33,9 +33,16 @@ fields:
   - type: file
     name: file
     label: file
+    description: image file
+    config:
+      maxSize: '8'
   - type: number
     name: width
     label: width
+    description: columns to span (1-12)
+    config:
+      step: '1'
+      max: '12'
   config:
     labelField: title
-  description: images description
+  description: add images to gallery
