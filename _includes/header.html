@@ -13,8 +13,6 @@
         <div class="navbar-collapse collapse" id="navbar-main">
             <ul class="nav navbar-nav navbar-left">
                 {% for navpage in site.data.nav %}
-
-                <!-- check to see if the data file has a submenu, and if so display it -->
                 {% if navpage.subcategories != null %}
                 <li class="dropdown{% if page.url == navpage.url or page.parent == navpage.href%} active{% endif %}">
                     <a href="{{ site.github.url }}{{ navpage.url }}" class="dropdown-toggle" data-toggle="dropdown" data-hover="dropdown">{{ navpage.title }}<span class="caret"></span></a>
@@ -32,8 +30,6 @@
                         {% endfor %}
                     </ul>
                     {% else %}
-
-                    <!— display the top level navigation for items that don’t have a submenu -->
                 <li {% if page.url == navpage.href or page.parent == navpage.href%} class="active"{% endif %}>
                     <a href="{{ site.github.url }}{{ navpage.href }}">{{ navpage.title }}</a>
                     {% endif %}
