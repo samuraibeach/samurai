@@ -8,22 +8,23 @@ fields:
 - type: text
   name: layout
   label: layout
+  hidden: true
 - type: text
   name: permalink
   label: permalink
+  hidden: true
 - type: text
   name: redirect_from
   label: redirect_from
+  hidden: true
 - type: text
   name: parent
   label: parent
-- type: text
-  name: coverpicture
-  label: coverpicture
+  hidden: true
 - type: image_gallery
   name: images
-  label: Images
-  description: Gallery
+  label: Gallery
+  description: Add Images to Gallery
 pages:
 - _activities/05_dolphin-watching.md
 - _activities/04_diving-and-snorkeling.md
