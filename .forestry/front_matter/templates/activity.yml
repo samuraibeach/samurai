@@ -23,8 +23,9 @@ fields:
   hidden: true
 - type: image_gallery
   name: images
-  label: Gallery
+  label: Images
   description: Add Images to Gallery
+  hidden: false
 pages:
 - _activities/05_dolphin-watching.md
 - _activities/04_diving-and-snorkeling.md
