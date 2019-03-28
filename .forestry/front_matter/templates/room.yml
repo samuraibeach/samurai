@@ -23,7 +23,7 @@ fields:
   hidden: true
 - type: field_group_list
   name: images
-  label: Gallery
+  label: Images
   fields:
   - type: text
     name: title
@@ -43,7 +43,7 @@ fields:
       max: '12'
   config:
     labelField: title
-  description: add images to gallery
+  description: Add Images to Gallery
 - type: list
   name: features
   label: features
