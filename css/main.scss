@@ -3,19 +3,3 @@
 ---
 // Import partials from `sass_dir` (defaults to `_sass`)
 @import "bootstrap","variables","bootswatch","custom";
-
-{% for cover in site.data.covers %}
-.{{cover.classname}}{
-  background: url(/img/1400/{{cover.image}});
- {% if cover.background-y %}background-position: center {{image.background-y}};{% endif %}
-}
-{% endfor %}
-
-
-@media (max-width: $grid-float-breakpoint) {
-{% for cover in site.data.covers %}
-  .{{cover.classname}}{
-  background: url(/img/800/{{cover.image}});
-}
-{% endfor %}
-}
