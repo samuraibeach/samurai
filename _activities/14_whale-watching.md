@@ -6,7 +6,7 @@ redirect_from: "/Activities/article/whale-cruises/"
 parent: "/activities/"
 images: []
 coverpicture: coverpic-activities
-seasonal: false
+seasonal: true
 
 ---
 ### Whale Watching
