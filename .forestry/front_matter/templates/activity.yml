@@ -5,6 +5,13 @@ fields:
 - type: text
   name: title
   label: title
+- type: textarea
+  name: description
+  label: Meta Description
+  description: Meta description should be not more than 140 characters and will appear
+    in google search result snippets
+  config:
+    required: true
 - type: text
   name: layout
   label: layout
