@@ -25,9 +25,9 @@ fields:
     name: description
     label: description
   - type: file
-    name: image
+    name: file
     label: Image
-    description: Image file in panoramic/widescreen format
+    description: Widescreen cropped image
     config:
       maxSize: '8'
   config:
