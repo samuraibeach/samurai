@@ -29,3 +29,6 @@ fields:
     label: image
     config:
       maxSize: '8'
+  config:
+    min: '1'
+    max: '2'
