@@ -26,6 +26,10 @@ fields:
   label: Images
   description: Add Images to Gallery
   hidden: false
+- type: boolean
+  name: seasonal
+  label: Seasonal Activity
+  description: Seasonal activities will be displayed on front page
 pages:
 - _activities/05_dolphin-watching.md
 - _activities/04_diving-and-snorkeling.md
