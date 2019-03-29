@@ -8,6 +8,9 @@ coverpicture: coverpic-beach-sunset
 images:
 - "/v1553481971/samurai/sanddunes.jpg"
 - "/v1553484385/samurai/birubisunset.jpg"
+seasonal: true
+description: White sand, crystal waters, tidal pools alive with local sea life, and
+  craggy rock outcroppings make the 26 beaches in the Port Stephens area worth exploring
 
 ---
 ### Beaches
