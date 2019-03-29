@@ -27,3 +27,5 @@ fields:
   - type: file
     name: image
     label: image
+    config:
+      maxSize: '8'
