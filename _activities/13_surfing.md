@@ -11,6 +11,8 @@ gallery:
   file: surfgirls.jpg
 - title: One Mile Beach sunset
   file: landscape.jpg
+images: []
+seasonal: true
 
 ---
 ### Surfing
