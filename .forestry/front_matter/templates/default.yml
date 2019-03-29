@@ -33,3 +33,4 @@ fields:
   config:
     min: '1'
     max: '2'
+    labelField: title
