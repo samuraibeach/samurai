@@ -10,7 +10,7 @@ coverpicture: coverpic-sunset-birubi
 
 Surf, boogie board, snorkel, dive, jump rocks, go fishing, sun bathe, catch the sunset and star gaze.
 
-Port Stephens waterway is around 2.5 times larger than the Sydney Harbor and is considered the 'Dolphin Capital' of Australia. 150 Bottlenose dolphins live in and around the Bay. Dolphin watching cruises are abundant and wildly popular. From May to November, over 1,000 Humpbacks migrate past Port Stephens and the Whale Watching/Dolphin Watching combination tours are spectacular.
+Port Stephens waterway is around 2.5 times larger than the Sydney Harbour and is considered the 'Dolphin Capital' of Australia. 150 Bottlenose dolphins live in and around the Bay. Dolphin watching cruises are abundant and wildly popular. From May to November, over 1,000 Humpbacks migrate past Port Stephens and the Whale Watching/Dolphin Watching combination tours are spectacular.
 
 Ahoy! Sail & whale watch, dolphin spot, and cruise; parasail, wake board, rent a boat or Jet-Ski.
 
