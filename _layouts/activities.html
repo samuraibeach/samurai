@@ -1,14 +1,32 @@
 ---
 layout: default
 ---
+{% assign firstCover = page.covers | first %}
+{% if firstCover != null %}
+<style scoped>
+    .headerimage {
+        background-image: url('{{ site.cloudinary_url }}/w_1000{{ firstCover.file }}');
+    }
+    @media (min-width: 1600px) {
+        .headerimage {
+            background-image: url('{{ site.cloudinary_url }}/w_1600{{ firstCover.file }}');
+        }
+    }
+    @media (min-width: 1900px) {
+        .headerimage {
+            background-image: url('{{ site.cloudinary_url }}/w_1900{{ firstCover.file }}');
+        }
+    }
+</style>
 <div class="container-fluid">
-    <div class="row">
-        <div class="col-md-12 {{ page.coverpicture }} bgimage" data-horizontal-value="{{page.cover.horizontal}}"
-             data-vertical-value="{{page.cover.vertical}}">
-            <div class="bgimage-inside"></div>
+    <div class="row" style="background-color:#000000;">
+        <div class="col-md-12 bgimage headerimage">
+            <div class="bgimage-inside">
+            </div>
         </div>
     </div>
 </div>
+{% endif %}
 <div class="container">
     <div class="row">
         <div class="col-md-9">
