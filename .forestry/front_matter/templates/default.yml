@@ -25,15 +25,15 @@ fields:
   - type: text
     name: title
     label: title
-  - type: text
-    name: description
-    label: description
   - type: file
     name: file
     label: Image
     description: Widescreen cropped image
     config:
       maxSize: '8'
+  - type: text
+    name: description
+    label: description
   config:
     min: '1'
     max: '2'
