@@ -4,8 +4,7 @@ layout: activities
 permalink: "/activities/koalas"
 redirect_from: "/Activities/article/koalas/"
 parent: "/activities/"
-coverpicture: coverpic-activities
-
+images: []
 ---
 ### Koalas
 You don't have to go far, Samurai Beach Bungalows is located in a koala corrider and they are often spotted from the bungalows

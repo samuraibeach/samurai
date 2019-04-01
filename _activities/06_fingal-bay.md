@@ -4,7 +4,6 @@ layout: activities
 permalink: "/activities/fingal-bay"
 redirect_from: "/Activities/article/fingal-bay/"
 parent: "/activities/"
-coverpicture: coverpic-activities
 images: []
 
 ---

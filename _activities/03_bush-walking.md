@@ -4,7 +4,6 @@ layout: activities
 permalink: "/activities/bush-walking"
 redirect_from: "/Activities/article/bush-walking/"
 parent: "/activities/"
-coverpicture: coverpic-activities
 
 ---
 ### Bush Walking

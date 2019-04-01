@@ -4,7 +4,6 @@ layout: activities
 permalink: "/activities/diving-and-snorkeling-in-port-stephens"
 redirect_from: "/Activities/article/diving-and-snorkeling/"
 parent: "/activities/"
-coverpicture: coverpic-activities
 images: []
 
 ---

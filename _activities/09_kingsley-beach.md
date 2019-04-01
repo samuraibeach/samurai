@@ -4,8 +4,7 @@ layout: activities
 permalink: "/activities/kingsley-beach"
 redirect_from: "/Activities/article/kingsley-beach/"
 parent: "/activities/"
-coverpicture: coverpic-activities
-
+images: []
 ---
 ### Kingsley Beach
 

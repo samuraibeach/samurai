@@ -5,10 +5,7 @@ permalink: "/activities/dolphin-watching"
 redirect_from: "/Activities/article/dolphin-watching/"
 coverpicture: coverpic-activities
 parent: "/activities/"
-gallery:
-- title: Dolphins
-  file: dolphins.jpg
-seasonal: now
+seasonal: true
 images: []
 
 ---

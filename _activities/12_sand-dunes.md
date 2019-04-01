@@ -4,14 +4,7 @@ layout: activities
 permalink: "/activities/get-sandy-at-stockton-sand-dunes"
 redirect_from: "/Activities/article/get-sandy-at-stockton-sand-dunes/"
 parent: "/activities/"
-coverpicture: coverpic-activities
-gallery:
-- title: Sandboarding
-  width: 8
-  file: sandboarding.jpg
-images:
-- "/v1553481971/samurai/sanddunes.jpg"
-
+images: []
 ---
 ### Get Sandy! At Stockton Sand Dunes
 

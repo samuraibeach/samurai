@@ -4,7 +4,6 @@ layout: activities
 permalink: "/activities/riding-on-the-beach"
 redirect_from: "/Activities/article/riding-on-the-beach/"
 parent: "/activities/"
-coverpicture: coverpic-activities
 images: []
 
 ---

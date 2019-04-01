@@ -4,8 +4,7 @@ layout: activities
 permalink: "/activities/wineries"
 redirect_from: "/Activities/article/wineries/"
 parent: "/activities/"
-coverpicture: coverpic-activities
-
+images: []
 ---
 ### Wineries
 3 local wineries which offer some quality wines or jump on a tour to the Hunter Valley,
