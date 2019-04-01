@@ -1,19 +1,23 @@
 ---
 label: Default
 hide_body: false
+display_field: title
 fields:
-- type: text
-  name: layout
-  label: layout
 - type: text
   name: title
   label: title
 - type: text
+  name: layout
+  label: layout
+  hidden: true
+- type: text
   name: permalink
   label: permalink
+  hidden: true
 - type: text
   name: redirect_from
   label: redirect_from
+  hidden: true
 - type: field_group_list
   name: covers
   label: covers
