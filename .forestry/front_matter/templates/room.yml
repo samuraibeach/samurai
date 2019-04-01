@@ -51,6 +51,26 @@ fields:
   config:
     labelField: title
   description: Add Images to Gallery
+- type: field_group_list
+  name: covers
+  label: covers
+  fields:
+    - type: text
+      name: title
+      label: title
+    - type: file
+      name: file
+      label: Image
+      description: Widescreen cropped image
+      config:
+        maxSize: '8'
+    - type: text
+      name: description
+      label: description
+  config:
+    min: '1'
+    max: '2'
+    labelField: title
 - type: list
   name: features
   label: features

@@ -28,6 +28,26 @@ fields:
   name: parent
   label: parent
   hidden: true
+- type: field_group_list
+  name: covers
+  label: covers
+  fields:
+    - type: text
+      name: title
+      label: title
+    - type: file
+      name: file
+      label: Image
+      description: Widescreen cropped image
+      config:
+        maxSize: '8'
+    - type: text
+      name: description
+      label: description
+  config:
+    min: '1'
+    max: '2'
+    labelField: title
 - type: image_gallery
   name: images
   label: Images
