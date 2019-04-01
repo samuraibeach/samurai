@@ -20,7 +20,7 @@ fields:
   hidden: true
 - type: field_group_list
   name: covers
-  label: covers
+  label: Cover Picture
   fields:
   - type: text
     name: title
