@@ -5,11 +5,12 @@ permalink: "/"
 redirect_from: "/Home"
 covers:
 - title: Welcome to SAMURAI
-  description: 'Welcome to Samurai Port Stephens YHA'
+  description: Welcome to Samurai Port Stephens YHA
   file: "/v1553747847/samurai/cover_balcony.jpg"
 - title: Arriving at Samurai
-  description: 'Just arrived'
+  description: Just arrived
   file: "/v1553748020/samurai/cover_arrival.jpg"
+
 ---
 ### An oasis for mellow travellers...
 
