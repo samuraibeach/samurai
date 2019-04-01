@@ -16,15 +16,15 @@ layout: default
             <div class="row">
                 <h2>Seasonal activities</h2>
                 {% for activity in site.activities %}
-                {% if activity.seasonal == "now" %}
+                {% if activity.seasonal == true %}
                 <div class="col-md-3">
                     <h3><a href="{{ activity.permalink }}">{{ activity.title }}</a></h3>
-                    {% assign firstGalleryImage = activity.gallery | first %}
-                    <p>{{ activity.description }}
-                        {% if firstGalleryImage %}
-                        <img class="img-responsive" src="/img/480/{{firstGalleryImage.file}}" title="{{firstGalleryImage.title}}">
-                        {% endif %}
+                    {% assign firstGalleryImage = activity.images | first %}
+                    {% if firstGalleryImage %}
+                    <p>
+                        <img class="img-responsive" src="{{ site.cloudinary_url }}/w_200{{ firstGalleryImage }}">
                     </p>
+                    {% endif %}
                 </div>
                 {% endif %}
                 {% endfor %}
