@@ -30,7 +30,7 @@ fields:
   hidden: true
 - type: field_group_list
   name: covers
-  label: covers
+  label: Cover Pictures
   fields:
   - type: text
     name: title
@@ -45,7 +45,7 @@ fields:
     name: description
     label: description
   config:
-    min: '1'
+    min: '0'
     max: '2'
     labelField: title
 - type: image_gallery
