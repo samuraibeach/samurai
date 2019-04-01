@@ -5,16 +5,16 @@ layout: default
 {% if firstCover != null %}
 <style scoped>
     .headerimage {
-        background-image: url('{{ site.cloudinary_url }}/w_1000{{ firstCover.image }}');
+        background-image: url('{{ site.cloudinary_url }}/w_1000{{ firstCover.file }}');
     }
     @media (min-width: 1600px) {
         .headerimage {
-            background-image: url('{{ site.cloudinary_url }}/w_1600{{ firstCover.image }}');
+            background-image: url('{{ site.cloudinary_url }}/w_1600{{ firstCover.file }}');
         }
     }
     @media (min-width: 1900px) {
         .headerimage {
-            background-image: url('{{ site.cloudinary_url }}/w_1900{{ firstCover.image }}');
+            background-image: url('{{ site.cloudinary_url }}/w_1900{{ firstCover.file }}');
         }
     }
 </style>
@@ -70,16 +70,16 @@ layout: default
 {% if footerCover != null %}
 <style scoped>
     .footerimage {
-        background-image: url('{{ site.cloudinary_url }}/w_1000{{ footerCover.image }}');
+        background-image: url('{{ site.cloudinary_url }}/w_1000{{ footerCover.file }}');
     }
     @media (min-width: 1600px) {
         .footerimage {
-            background-image: url('{{ site.cloudinary_url }}/w_1600{{ footerCover.image }}');
+            background-image: url('{{ site.cloudinary_url }}/w_1600{{ footerCover.file }}');
         }
     }
     @media (min-width: 1900px) {
         .footerimage {
-            background-image: url('{{ site.cloudinary_url }}/w_1900{{ footerCover.image }}');
+            background-image: url('{{ site.cloudinary_url }}/w_1900{{ footerCover.file }}');
         }
     }
 </style>
