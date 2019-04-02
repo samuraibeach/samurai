@@ -3,8 +3,7 @@ title: Site Terms and Conditions of Use
 layout: page
 permalink: "/terms-of-service"
 redirect_from: "/Home/Specials"
-covers:
-- {}
+covers: []
 
 ---
 ### Site Terms and Conditions of Use
@@ -31,7 +30,7 @@ You also grant us the right to disclose to third parties certain Registration Da
 
 Your use of the site is subject to all applicable laws and regulations, and you are solely responsible for the substance of your communications through the site. By posting information in or otherwise using any communications service, chat room, message board, newsgroup, software library, or other interactive service that may be available to you on or through this site, you agree that you will not upload, share, post, or otherwise distribute or facilitate distribution of any content -- including text, communications, software, images, sounds, data, or other information -- that:
 
- a. is unlawful, threatening, abusive, harassing, defamatory, libelous, deceptive, fraudulent, invasive of anothers privacy, tortious, contains explicit or graphic descriptions or accounts of sexual acts (including but not limited to sexual language of a violent or threatening nature directed at another individual or group of individuals), or otherwise violates our rules or policies;
+a. is unlawful, threatening, abusive, harassing, defamatory, libelous, deceptive, fraudulent, invasive of anothers privacy, tortious, contains explicit or graphic descriptions or accounts of sexual acts (including but not limited to sexual language of a violent or threatening nature directed at another individual or group of individuals), or otherwise violates our rules or policies;
 
 b. victimizes, harasses, degrades, or intimidates an individual or group of individuals on the basis of religion, gender, sexual orientation, race, ethnicity, age, or disability;
 
@@ -184,4 +183,5 @@ SOME JURISDICTIONS PROHIBIT THE EXCLUSION OR LIMITATION OF LIABILITY FOR CONSEQU
 <p><strong>9. Limitation of Liability</strong></p>
 <p>See Website Terms of Use</p>
 <p><strong>10. Acceptance and Acknowledgement of Terms</strong></p>
-<p>Use of this website constitutes acceptance of these Terms. You acknowledge that you have read and are bound by the Terms, as well as any other usage agreements of Ours, including the Website Terms of Use that may govern your conduct. Thank you for participating in the Blog. Please do not hesitate to contact us at info@samuraiportstephens.com.au if you have questions.</p>
+
+Use of this website constitutes acceptance of these Terms. You acknowledge that you have read and are bound by the Terms, as well as any other usage agreements of Ours, including the Website Terms of Use that may govern your conduct. Thank you for participating in the Blog. Please do not hesitate to contact us at info@samuraiportstephens.com.au if you have questions.
