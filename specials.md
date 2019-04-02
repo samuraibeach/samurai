@@ -1,9 +1,11 @@
 ---
 title: Current Specials and Packages
 layout: page
-permalink: /specials
-redirect_from: /Home/Specials
+permalink: "/specials"
+redirect_from: "/Home/Specials"
 coverpicture: coverpic-activities
+published: false
+
 ---
 ### Current Specials and Packages
 
@@ -44,4 +46,3 @@ Transport Options:
 2.   Port Stephens Coaches direct from Sydney Central to our door $31 one way or $46 return ( we can book this for you if you want.
 
 More details about transport on our Directions page.
-
