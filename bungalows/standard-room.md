@@ -33,15 +33,15 @@ covers:
   description: Entrance to Standard Bungalow
 description: Standard bungalow which is suitable for couples, triples and families.
 images:
-- title: Bali lady
-  file: "/v1554181235/samurai/room-sleepingbaligirl.jpg"
-  width: 1
 - title: Standard Room Balcony
   file: "/v1554180245/samurai/standardroom-verandah.jpg"
   width: 4
 - title: Standard Room Interior
   file: "/v1554179732/samurai/standardroom-guests.jpg"
   width: 4
+- title: Bali lady
+  file: "/v1554181235/samurai/room-sleepingbaligirl.jpg"
+  width: 1
 
 ---
 ### Standard Room
