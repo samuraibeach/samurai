@@ -27,6 +27,11 @@ gallery:
   file: balconyseat.jpg
 - title: Balcony Seat
   file: balconyseat.jpg
+covers:
+- title: Standard Bungalow
+  file: "/v1554179503/samurai/standardroom-entrance.jpg"
+  description: Entrance to Standard Bungalow
+description: Standard bungalow which is suitable for couples, triples and families.
 
 ---
 ### Standard Room
