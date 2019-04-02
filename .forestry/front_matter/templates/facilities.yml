@@ -1,7 +1,6 @@
 ---
 label: Sections
 hide_body: false
-display_field: sections
 fields:
 - type: blocks
   name: sections
@@ -25,7 +24,7 @@ fields:
     name: description
     label: description
   config:
-    min: '1'
+    min: '0'
     max: '2'
     labelField: title
 pages:
