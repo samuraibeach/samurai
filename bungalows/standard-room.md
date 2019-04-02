@@ -32,6 +32,9 @@ covers:
   file: "/v1554179503/samurai/standardroom-entrance.jpg"
   description: Entrance to Standard Bungalow
 description: Standard bungalow which is suitable for couples, triples and families.
+images:
+- title: Standard Room Interior
+  file: "/v1554179732/samurai/standardroom-guests.jpg"
 
 ---
 ### Standard Room
