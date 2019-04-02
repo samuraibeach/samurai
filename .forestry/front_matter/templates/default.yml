@@ -1,7 +1,6 @@
 ---
 label: Default
 hide_body: false
-display_field: title
 fields:
 - type: text
   name: title
@@ -35,7 +34,7 @@ fields:
     name: description
     label: description
   config:
-    min: '1'
+    min: '0'
     max: '2'
     labelField: title
 pages:
