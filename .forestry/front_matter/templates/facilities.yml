@@ -1,6 +1,7 @@
 ---
 label: Sections
 hide_body: false
+display_field: sections
 fields:
 - type: blocks
   name: sections
