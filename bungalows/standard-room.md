@@ -41,7 +41,7 @@ images:
   width: 4
 - title: Bali lady
   file: "/v1554181235/samurai/room-sleepingbaligirl.jpg"
-  width: 6
+  width: 2
 
 ---
 ### Standard Room
