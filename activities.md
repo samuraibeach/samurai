@@ -2,6 +2,10 @@
 layout: activities
 permalink: "/activities/"
 coverpicture: coverpic-sunset-birubi
+covers:
+- title: Fun in the dunes
+  file: "/v1554180548/samurai/cover-activities.jpg"
+  description: Sand dune fun
 
 ---
 ### Port Stephens
