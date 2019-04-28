@@ -8,6 +8,7 @@ redirect_from: "/Bungalows/Deluxe_Double/"
 features:
 - Double Bed dressed with quality linens
 - Ensuite Bathroom—fresh towels and bath mats provided
+- Free wifi
 - Private Verandah with table and ample seating
 - LCD TV, DVD player and access to DVD library
 - Refrigerator, Microwave,
@@ -38,6 +39,7 @@ gallery:
   file: deluxedouble.jpg
 - title: Balcony
   file: deluxebalcony.jpg
+description: Private double with ensuite
 
 ---
 ## Deluxe Double
