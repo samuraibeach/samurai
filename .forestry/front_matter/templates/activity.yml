@@ -58,13 +58,13 @@ fields:
   label: Seasonal Activity
   description: Seasonal activities will be displayed on front page
 pages:
+- _activities/12_sand-dunes.md
 - _activities/02_bike-riding.md
 - _activities/10_koalas.md
 - _activities/05_dolphin-watching.md
 - _activities/04_diving-and-snorkeling.md
 - _activities/01_beaches.md
 - _activities/14_whale-watching.md
-- _activities/12_sand-dunes.md
 - _activities/15_wineries.md
 - _activities/13_surfing.md
 - _activities/11_riding-on-the-beach.md
