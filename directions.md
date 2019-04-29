@@ -12,9 +12,11 @@ frameborder="0" style="border:0" allowfullscreen></iframe>
 
 ## By Public Transport
 
+The best bet is to use this link to [Public Transport NSW](https://transportnsw.info/?language=en "Public Transport") for times and costs.
+
 ### From Newcastle:
 
-* OPAL CARD WORKS in Port Stephens and Newcastle. 
+* OPAL CARD WORKS in Port Stephens and Newcastle.
 
 Port Stephens Coaches offer daily services between Newcastle and Port Stephens. Buses depart from Newcastle Coach Terminal (Stand 3) and arrive directly in front of SAMURAI Port Stephens YHA Backpackers. Travel time is 1 hour and 10 minutes, cost is $4.30.
 
@@ -26,7 +28,7 @@ Port Stephens Coaches offer a daily service between Sydney and Port Stephens. Th
 
 Countrylink are offer some great backpackers deals and travel passes for East coast up to Cairns, check them out here. Catch Countrylink from Sydney to Broadmeadow (a suburb of Newcastle) Take a local train into Newcastle CBD and then connect with Port Stephens Coaches (at Stand 3)
 
-The Cheapest Option is CityRail NSW offer services to Newcastle from Sydney for about $8, then you can connect with Port Stephens Coaches to our door for about $5.  So this trip from Sydney is only about $12.
+The **Cheapest Option is CityRail NSW** offer services to Newcastle from Sydney for about $8, then you can connect with Port Stephens Coaches to our door for about $5.  So this trip from Sydney is only about $12.
 
 ### Greyhound
 
