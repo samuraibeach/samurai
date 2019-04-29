@@ -46,4 +46,4 @@ images:
 ---
 ### Standard Room
 
-SAMURAI Backpackers Standard Rooms are multi-purpose and may be booked for Twin, Triple, Quad or Family accommodation. These rooms share a full length verandah and bathroom with one other room. Private tables, chairs, and wooden benches adorn either side of the veranda with a full bathroom located centrally.
+SAMURAI Backpackers Standard Rooms are multi-purpose and may be booked for Twin, Triple, Quad or Family accommodation. Sleeping a maximum of 4 persons. These rooms share a full length verandah and bathroom with one other room. Private tables, chairs, and wooden benches adorn either side of the verandah with a full bathroom located centrally. Relax on the balcony with views over our native rainforest garden.
