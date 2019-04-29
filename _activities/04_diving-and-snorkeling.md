@@ -10,7 +10,7 @@ covers: []
 seasonal: false
 
 ---
-### Diving and snorkeling
+### Diving and snorkelling
 
 Shore and boat dives, padi courses and marine reserves If you are happy to go by yourself Halifax Marine Park found in Nelson Bay is a perfect spot to view some great marine life as it is classed as a marine reserve. 
 
