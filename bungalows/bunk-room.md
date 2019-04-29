@@ -19,7 +19,7 @@ features:
 images:
 - title: Room view
   file: "/v1553484385/samurai/birubisunset.jpg"
-  width: '2'
+  width: 2
 gallery:
 - title: Balcony wiew
   file: "/v1553484385/samurai/birubisunset.jpg"
@@ -28,9 +28,9 @@ gallery:
 ---
 ### Backpacker Bunk Rooms
 
-**SAMURAI YHA Backpackers Resort** is a choice place to hang your backpack for a while. Unwind, meet travellers, and sleep in one of our comfortable Backpacker Bunk Rooms. 
+**SAMURAI YHA Backpackers Resort** is a choice place to hang your backpack for a while. Unwind, meet travellers, and sleep in one of our comfortable Backpacker Bunk Rooms.
 
-Fully equipped with backpacker essentials—linens, pillows, doonas, blankets, shared refrigerator, kettle, fan, heater and hot water bottles in winter—these five or six-share hostel rooms are spacious, clean, cheap, and seriously cosy. 
+Fully equipped with backpacker essentials—linens, pillows, doonas, blankets, shared refrigerator, fan, heater and hot water bottles in winter—these five or six-share hostel rooms are spacious, clean, cheap, and seriously cosy.
 
 Relax, chat, or just lounge and enjoy the garden view from the wide verandah; even feed the friendly possum Pete who hangs around.
 
