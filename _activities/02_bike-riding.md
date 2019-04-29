@@ -5,6 +5,9 @@ parent: "/activities/"
 permalink: "/activities/bike-riding"
 redirect_from: "/Activities/article/bike-riding/"
 images: []
+description: Biking Port Stephens
+covers: []
+seasonal: false
 
 ---
 ### Bike riding
