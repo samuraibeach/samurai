@@ -1,10 +1,13 @@
 ---
-title: Riding on the Beach
+title: Horse or Camel Riding
 layout: activities
 permalink: "/activities/riding-on-the-beach"
 redirect_from: "/Activities/article/riding-on-the-beach/"
 parent: "/activities/"
 images: []
+description: Riding on the beach
+covers: []
+seasonal: false
 
 ---
 ### Riding on the Beach
