@@ -5,6 +5,9 @@ permalink: "/activities/fingal-bay"
 redirect_from: "/Activities/article/fingal-bay/"
 parent: "/activities/"
 images: []
+description: Beautiful Fingal Bay
+covers: []
+seasonal: false
 
 ---
 ### Fingal Bay
