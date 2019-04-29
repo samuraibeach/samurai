@@ -22,7 +22,7 @@ Port Stephens Coaches offer daily services between Newcastle and Port Stephens. 
 
 ### From Sydney:
 
-[Port Stephens Coaches](http://www.pscoaches.com.au/ "Port Stephens Coaches"){:target="_blank"} offer a daily service between Sydney and Port Stephens. The bus departs Sydney Central (Bay 14) at 2 p.m. and arrives directly in front of the hostel at 5.20 p.m.  Travel time is about 3 hours, cost is $31 one way or $46 return depending on age and concession status. We are more then happy to reserve a seat for you. If you would like us to book your travel, please do not hesitate to contact us.If you have an Opal Card in Sydney this can be used to travel to Port Stephens and around on the public bus and train system
+[Port Stephens Coaches](http://www.pscoaches.com.au/ "Port Stephens Coaches") {:target="_blank"} offer a daily service between Sydney and Port Stephens. The bus departs Sydney Central (Bay 14) at 2 p.m. and arrives directly in front of the hostel at 5.20 p.m.  Travel time is about 3 hours, cost is $31 one way or $46 return depending on age and concession status. We are more then happy to reserve a seat for you. If you would like us to book your travel, please do not hesitate to contact us.If you have an Opal Card in Sydney this can be used to travel to Port Stephens and around on the public bus and train system
 
 ### Train: Countrylink or CityRail
 
