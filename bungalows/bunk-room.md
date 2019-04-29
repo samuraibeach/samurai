@@ -6,15 +6,15 @@ permalink: "/bungalows/bunk-room"
 coverpicture: coverpic-bunkroom
 redirect_from: "/Bungalows/Bunk_Room/"
 features:
-- Free WiFi
 - Two Wooden bunks and single bed—free linens, doonas, and blankets
+- Free WiFi
 - Open Veranda with garden view, private table and seating
-- Bar Fridge, kettle, clock radio, shared bedside tables
-- Adjacent Bathroom—shared with only one other room
+- Bar Fridge,  shared bedside tables
+- Shared bathroom
 - Fan in Summer, heater and hot water bottles available in winter
 - Free Coffee, tea, sugar, and cooking necessities in Bush Kitchen
-- Free Use of sandboards, bodyboards, luggage storage, pool table, Skype equipment,
-  DVD library, book exchange, mail services, and heaps more
+- Free Use of bodyboards, luggage storage, pool table, Free wifi, DVD library, book
+  exchange, mail services, and heaps more
 - 'For Hire: Towels - $2'
 images:
 - title: Room view
@@ -24,6 +24,7 @@ gallery:
 - title: Balcony wiew
   file: "/v1553484385/samurai/birubisunset.jpg"
   width: 1
+description: Backpacker 5/6 Share bunk Room
 
 ---
 ### Backpacker Bunk Rooms
