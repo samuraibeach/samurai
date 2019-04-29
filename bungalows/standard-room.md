@@ -8,7 +8,7 @@ redirect_from: "/Bungalows/Family_Room/"
 features:
 - Double Bed and set of bunks
 - LCD Television/DVD
-- Clock Radio
+- Free Wifi
 - Bar Fridge
 - Tea & Coffee making facilities
 - Fan/Heater
