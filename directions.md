@@ -12,17 +12,17 @@ frameborder="0" style="border:0" allowfullscreen></iframe>
 
 ## By Public Transport
 
-The best bet is to use this link to [Public Transport NSW](https://transportnsw.info/?language=en "Public Transport"){:target=_"blank"} for times and costs.
+The best bet is to use this link to [Public Transport NSW](https://transportnsw.info/?language=en "Public Transport"){:target="_blank"} for times and costs.
 
 ### From Newcastle:
 
 * OPAL CARD WORKS in Port Stephens and Newcastle.
 
-[Port Stephens Coaches](http://www.pscoaches.com.au "Port Stephens Coaches") offer daily services between Newcastle and Port Stephens. Buses depart from Newcastle Coach Terminal (Stand 3) and arrive directly in front of SAMURAI Port Stephens YHA Backpackers. Travel time is 1 hour and 10 minutes, cost is $4.30.
+[Port Stephens Coaches](http://www.pscoaches.com.au "Port Stephens Coaches"){:target="_blank" offer daily services between Newcastle and Port Stephens. Buses depart from Newcastle Coach Terminal (Stand 3) and arrive directly in front of SAMURAI Port Stephens YHA Backpackers. Travel time is 1 hour and 10 minutes, cost is $4.30.
 
 ### From Sydney:
 
-[Port Stephens Coaches](http://www.pscoaches.com.au/ "Port Stephens Coaches"){:target=_"blank"} offer a daily service between Sydney and Port Stephens. The bus departs Sydney Central (Bay 14) at 2 p.m. and arrives directly in front of the hostel at 5.20 p.m.  Travel time is about 3 hours, cost is $31 one way or $46 return depending on age and concession status. We are more then happy to reserve a seat for you. If you would like us to book your travel, please do not hesitate to contact us.If you have an Opal Card in Sydney this can be used to travel to Port Stephens and around on the public bus and train system
+[Port Stephens Coaches](http://www.pscoaches.com.au/ "Port Stephens Coaches"){:target="_blank"} offer a daily service between Sydney and Port Stephens. The bus departs Sydney Central (Bay 14) at 2 p.m. and arrives directly in front of the hostel at 5.20 p.m.  Travel time is about 3 hours, cost is $31 one way or $46 return depending on age and concession status. We are more then happy to reserve a seat for you. If you would like us to book your travel, please do not hesitate to contact us.If you have an Opal Card in Sydney this can be used to travel to Port Stephens and around on the public bus and train system
 
 ### Train: Countrylink or CityRail
 
