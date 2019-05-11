@@ -6,7 +6,7 @@ permalink: "/bungalows/bunk-room"
 coverpicture: coverpic-bunkroom
 redirect_from: "/Bungalows/Bunk_Room/"
 features:
-- Two Wooden bunks and single bed—free linens, doonas, and blankets
+- Wooden bunks bed—free linens, doonas, and blankets
 - Free WiFi
 - Open Veranda with garden view, private table and seating
 - Bar Fridge,  shared bedside tables
@@ -36,3 +36,5 @@ Fully equipped with backpacker essentials—linens, pillows, doonas, blankets, s
 Relax, chat, or just lounge and enjoy the garden view from the wide verandah; even feed the friendly possum Pete who hangs around.
 
 _Those Under 17 years of age not permitted in Backpacker Bunk Rooms._
+
+If this is what you are looking for, please check our prices and availability [here](https://apac.littlehotelier.com/properties/samurai-beach-bungalows "Book Now"){target="_blank"}
