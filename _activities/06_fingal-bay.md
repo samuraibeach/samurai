@@ -7,7 +7,7 @@ parent: "/activities/"
 images: []
 description: Beautiful Fingal Bay
 covers: []
-seasonal: false
+seasonal: true
 
 ---
 ### Fingal Bay
