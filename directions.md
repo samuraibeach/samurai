@@ -18,7 +18,7 @@ The best bet is to use this link to [Public Transport NSW](https://transportnsw.
 
 * OPAL CARD WORKS in Port Stephens and Newcastle.
 
-Port Stephens Coaches offer daily services between Newcastle and Port Stephens. Buses depart from Newcastle Coach Terminal (Stand 3) and arrive directly in front of SAMURAI Port Stephens YHA Backpackers. Travel time is 1 hour and 10 minutes, cost is $4.30.
+[Port Stephens Coaches](http://www.pscoaches.com.au "Port Stephens Coaches") offer daily services between Newcastle and Port Stephens. Buses depart from Newcastle Coach Terminal (Stand 3) and arrive directly in front of SAMURAI Port Stephens YHA Backpackers. Travel time is 1 hour and 10 minutes, cost is $4.30.
 
 ### From Sydney:
 
