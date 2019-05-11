@@ -16,7 +16,7 @@ Surf, boogie board, snorkel, dive, jump rocks, go fishing, sun bathe, catch the 
 
 Port Stephens waterway is around 2.5 times larger than the Sydney Harbour and is considered the 'Dolphin Capital' of Australia. 150 Bottlenose dolphins live in and around the Bay. Dolphin watching cruises are abundant and wildly popular. From May to November, over 1,000 Humpbacks migrate past Port Stephens and the Whale Watching/Dolphin Watching combination tours are spectacular.
 
-Ahoy! Sail & whale watch, dolphin spot, and cruise; parasail, wake board, rent a boat or Jet-Ski.
+Ahoy! Sail & whale watch, dolphin spot, and cruise; parasail, snorkel/dive, rent a boat or Jet-Ski. Our harbour and surrounding bays are a Blue Water Wonderland.
 
 The Stockton Sand Dunes, part of the [Worimi Aboriginal Conservation lands](https://worimiconservationlands.com/ "Worimi"){:target="_blank"}, make up the biggest sand mass in the Southern Hemisphere and stretch over 30 kms from Anna Bay to Newcastle. Landscape views from the dunes are spectacular, and the shore line is impressive. Explore the dunes by foot, camel, 4WD, horse, or Quad Bike. 
 
