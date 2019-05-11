@@ -58,10 +58,10 @@ fields:
   label: Seasonal Activity
   description: Seasonal activities will be displayed on front page
 pages:
+- _activities/14_whale-watching.md
 - _activities/06_fingal-bay.md
 - _activities/12_sand-dunes.md
 - _activities/03_bush-walking.md
-- _activities/14_whale-watching.md
 - _activities/11_riding-on-the-beach.md
 - _activities/02_bike-riding.md
 - _activities/10_koalas.md

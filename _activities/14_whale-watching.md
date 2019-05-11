@@ -5,7 +5,7 @@ permalink: "/activities/whale-watching"
 redirect_from: "/Activities/article/whale-cruises/"
 parent: "/activities/"
 images: []
-seasonal: false
+seasonal: true
 description: Humpback Whales a view to behold
 covers: []
 
