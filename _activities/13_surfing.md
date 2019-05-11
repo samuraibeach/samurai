@@ -6,7 +6,7 @@ redirect_from: "/Activities/article/surfing/"
 parent: "/activities/"
 coverpicture: coverpic-activities
 images: []
-seasonal: true
+seasonal: false
 description: Surfing uncrowded breaks in Port Stephens
 covers: []
 
