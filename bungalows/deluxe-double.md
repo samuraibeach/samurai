@@ -45,4 +45,4 @@ description: Private double with ensuite
 
 Designed specifically for couples, Deluxe Doubles feature a private verandah with table and chairs overlooking the rainforest gardens, ensuite bathroom, and mini-kitchenette. With solid wood furnishings, simple yet stylish décor, and a polished timber floor,these rooms are naturally impressive.
 
-To check availability and book please [click here](https://apac.littlehotelier.com/properties/samurai-beach-bungalows?check_in_date=&check_out_date=NaN-NaN-NaN "Book Now"){target.
+To check availability and book please [click here](https://apac.littlehotelier.com/properties/samurai-beach-bungalows?check_in_date=&check_out_date=NaN-NaN-NaN "Book Now"){:target="_blank"}
