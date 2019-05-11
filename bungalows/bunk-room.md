@@ -37,4 +37,4 @@ Relax, chat, or just lounge and enjoy the garden view from the wide verandah; ev
 
 _Those Under 17 years of age not permitted in Backpacker Bunk Rooms._
 
-If this is what you are looking for, please check our prices and availability [here](https://apac.littlehotelier.com/properties/samurai-beach-bungalows "Book Now"){target="_blank"}
+If this is what you are looking for, please check our prices and availability [here](https://apac.littlehotelier.com/properties/samurai-beach-bungalows "Book Now"){:target="_blank"}
