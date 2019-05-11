@@ -22,4 +22,4 @@ SAMURAI YHA Backpackers is situated directly along the koala corridor, and we of
 
 Near to 26 excellent beaches, the Worimi Conservation Lands and sand dunes, Great Lakes Marine Park, and Tomaree National Park—SAMURAI Backpackers is a nature lover’s paradise.
 
-We can direct you to or organize: bush walks, mountain biking, surfing, dolphin watching, snorkelling/diving, boating and more.
+We can direct you to or organise: bush walks, mountain biking, surfing, dolphin watching, snorkelling/diving, boating and more.
