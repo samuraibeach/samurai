@@ -18,7 +18,7 @@ Port Stephens waterway is around 2.5 times larger than the Sydney Harbour and is
 
 Ahoy! Sail & whale watch, dolphin spot, and cruise; parasail, wake board, rent a boat or Jet-Ski.
 
-The Stockton Sand Dunes, part of the [Worimi Aboriginal Conservation lands](https://worimiconservationlands.com/ "Worimi"){:target="_blank"}, make up the biggest sand mass in the Southern Hemisphere and stretch over 30 kms from Anna Bay to Newcastle. Landscape views from the dunes are spectacular, and the shore line is impressive. Explore the dunes by foot, camel, 4WD, horse, or Quad Bike. Major attractions include the Sygna Ship Wreck and 'Tin City' a community living in the dunes.
+The Stockton Sand Dunes, part of the [Worimi Aboriginal Conservation lands](https://worimiconservationlands.com/ "Worimi"){:target="_blank"}, make up the biggest sand mass in the Southern Hemisphere and stretch over 30 kms from Anna Bay to Newcastle. Landscape views from the dunes are spectacular, and the shore line is impressive. Explore the dunes by foot, camel, 4WD, horse, or Quad Bike. 
 
 [Tomaree National Park](https://www.nationalparks.nsw.gov.au/things-to-do/walking-tracks/tomaree-head-summit-walk "Tomaree"){:target="_blank"} fringes the towns of Nelson Bay, Shoal Bay, Boat Harbour and Anna Bay. The National Park conserves 2318 hectares of sand dunes, heathland, forested areas, and over 20km of rocky coastline and beaches. Important flora and fauna habitats are protected as well as Aboriginal cultural heritage. Exploring the park by foot or bicycle is easy via the trail system and is the best way to spot native animals - Koalas, Kangaroos, Wallabys, and birdlife.
 
