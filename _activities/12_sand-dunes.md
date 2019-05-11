@@ -7,7 +7,7 @@ parent: "/activities/"
 images: []
 description: Sand Dunes
 covers: []
-seasonal: false
+seasonal: true
 
 ---
 ###  Sand Dunes
