@@ -11,8 +11,8 @@ features:
 - Private Balcony with tables and chairs over looking the garden.
 - Free wifi
 - LCD TV, DVD player and access to DVD library
-- Refrigerator, Microwave,
-- Tea and coffee, kettle etc
+- Refrigerator & Microwave
+- Tea ,coffee and sugar plus kettle etc
 - Clock Radio, bedside tables and lamps
 - Overhead Fan and heater in winter along with hot water bottles
 - Cutlery, Crockery, and dish linens provided
@@ -44,3 +44,5 @@ description: Private double with ensuite
 ## Deluxe Double
 
 Designed specifically for couples, Deluxe Doubles feature a private verandah with table and chairs overlooking the rainforest gardens, ensuite bathroom, and mini-kitchenette. With solid wood furnishings, simple yet stylish décor, and a polished timber floor,these rooms are naturally impressive.
+
+To check availability and book please [click here](https://apac.littlehotelier.com/properties/samurai-beach-bungalows?check_in_date=&check_out_date=NaN-NaN-NaN "Book Now"){target.
