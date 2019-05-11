@@ -7,7 +7,7 @@ parent: "/activities/"
 description: Great walks and awesome views
 covers: []
 images: []
-seasonal: false
+seasonal: true
 
 ---
 ### Bush Walking
