@@ -12,7 +12,7 @@ frameborder="0" style="border:0" allowfullscreen></iframe>
 
 ## By Public Transport
 
-The best bet is to use this link to [Public Transport NSW](https://transportnsw.info/?language=en "Public Transport") for times and costs.
+The best bet is to use this link to [Public Transport NSW](https://transportnsw.info/?language=en "Public Transport"){:target=_"blank"} for times and costs.
 
 ### From Newcastle:
 
