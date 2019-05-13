@@ -40,12 +40,12 @@ gallery:
   file: deluxebalcony.jpg
 description: Private double with ensuite
 images:
-- title: Balcony Statue
-  file: "/v1557721177/samurai/Deluxe.balconyguard.jpg"
-  width: 2
 - title: Deluxe Double Interior
   file: "/v1557720628/samurai/deluxe.bed.jpg"
   width: 4
+- title: Balcony Statue
+  file: "/v1557721177/samurai/Deluxe.balconyguard.jpg"
+  width: 2
 
 ---
 ## Deluxe Double
