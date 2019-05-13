@@ -18,6 +18,7 @@ features:
 - 'For Hire: Towels - $2'
 images:
 - title: Bunkroom Solid Beds
+  file: "/v1557720129/samurai/bunkroom.beds2.jpg"
 - title: Solid Bunk Beds
   file: "/v1557720086/samurai/bunkroom.beds.jpg"
   width: 2
