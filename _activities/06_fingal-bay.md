@@ -5,7 +5,7 @@ permalink: "/activities/fingal-bay"
 redirect_from: "/Activities/article/fingal-bay/"
 parent: "/activities/"
 images:
-- "/v1557719546/samurai/acitivites.fingalspit.jpg"
+- "/v1557721375/samurai/activites.fingalspit.jpg"
 - "/v1557719571/samurai/activities.fingallighthouse.jpg"
 description: Beautiful Fingal Bay
 covers:
