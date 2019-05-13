@@ -17,6 +17,8 @@ features:
   exchange, mail services, and heaps more
 - 'For Hire: Towels - $2'
 images:
+- title: View to garden from Balcony
+  file: "/v1557720180/samurai/bunkroom.gardenview.jpg"
 - title: Bunkroom Solid Beds
   file: "/v1557720129/samurai/bunkroom.beds2.jpg"
 - title: Solid Bunk Beds
