@@ -5,6 +5,7 @@ permalink: "/activities/beaches"
 redirect_from: "/Activities/article/beaches/"
 parent: "/activities/"
 images:
+- "/v1557720950/samurai/activities.birdonbeach.jpg"
 - "/v1553481971/samurai/sanddunes.jpg"
 - "/v1553484385/samurai/birubisunset.jpg"
 seasonal: false
