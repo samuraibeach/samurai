@@ -22,6 +22,7 @@ images:
   width: 4
 - title: View to garden from Balcony
   file: "/v1557720180/samurai/bunkroom.gardenview.jpg"
+  width: 3
 - title: Solid Bunk Beds
   file: "/v1557720086/samurai/bunkroom.beds.jpg"
   width: 2
