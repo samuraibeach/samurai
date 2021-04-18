@@ -8,7 +8,7 @@ redirect_from: "/Bungalows/Family_Room/"
 features:
 - Double Bed and set of bunks
 - LCD Television/DVD
-- Free Wifi
+- Clock Radio
 - Bar Fridge
 - Tea & Coffee making facilities
 - Fan/Heater
@@ -27,25 +27,8 @@ gallery:
   file: balconyseat.jpg
 - title: Balcony Seat
   file: balconyseat.jpg
-covers:
-- title: Standard Bungalow
-  file: "/v1554179503/samurai/standardroom-entrance.jpg"
-  description: Entrance to Standard Bungalow
-description: Standard bungalow which is suitable for couples, triples and families.
-images:
-- title: Standard Room Balcony
-  file: "/v1554180245/samurai/standardroom-verandah.jpg"
-  width: 4
-- title: Standard Room Interior
-  file: "/v1554179732/samurai/standardroom-guests.jpg"
-  width: 4
-- title: Bali lady
-  file: "/v1554181235/samurai/room-sleepingbaligirl.jpg"
-  width: 2
 
 ---
 ### Standard Room
 
-SAMURAI  Standard Rooms are multi-purpose and may be booked for Twin, Triple, Quad or Family accommodation. Sleeping a maximum of 4 persons. These rooms share a full length verandah and bathroom with one other room. Private tables, chairs, and wooden benches adorn either side of the verandah with a full bathroom located centrally. Relax on the balcony with views over our native rainforest garden.
-
-To check out our prices and availability [click here](https://apac.littlehotelier.com/properties/samurai-beach-bungalows "Book Now"){:target="_blank"}
+SAMURAI  Standard Rooms are multi-purpose and may be booked for Twin, Triple, Quad or Family accommodation. These rooms share a full length verandah and bathroom with one other room. Private tables, chairs, and wooden benches adorn either side of the veranda with a full bathroom located centrally.
