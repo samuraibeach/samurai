@@ -6,16 +6,16 @@ permalink: "/bungalows/deluxe-double"
 coverpicture: coverpic-deluxe-double
 redirect_from: "/Bungalows/Deluxe_Double/"
 features:
-- Double Bed dressed with quality linens
+- Queen Bed dressed with quality linens
 - Ensuite Bathroom—fresh towels and bath mats provided
-- Private Verandah with table and ample seating
+- Private Balcony with tables and chairs over looking the garden.
+- Free wifi
 - LCD TV, DVD player and access to DVD library
-- Refrigerator, Microwave,
-- Tea and coffee, kettle etc
+- Refrigerator & Microwave
+- Tea ,coffee and sugar plus kettle etc
 - Clock Radio, bedside tables and lamps
 - Overhead Fan and heater in winter along with hot water bottles
 - Cutlery, Crockery, and dish linens provided
-- Private Balcony with tables and chairs over looking the garden.
 - All linen including towels is provided
 gallery:
 - title: Balcony
@@ -38,8 +38,18 @@ gallery:
   file: deluxedouble.jpg
 - title: Balcony
   file: deluxebalcony.jpg
+description: Private double with ensuite
+images:
+- title: Deluxe Double Interior
+  file: "/v1557720628/samurai/deluxe.bed.jpg"
+  width: 4
+- title: Balcony Statue
+  file: "/v1557721177/samurai/Deluxe.balconyguard.jpg"
+  width: 2
 
 ---
 ## Ensuite Queen
 
-Designed specifically for couples, our Ensuite Queen rooms feature a private verandah with table and chairs overlooking the rainforest gardens, ensuite bathroom, and mini-kitchenette. With solid wood furnishings, simple yet stylish décor, and a polished timber floor,these rooms are naturally impressive.
+Designed specifically for couples, our Ensuite Queen rooms feature a private verandah with table and chairs overlooking the rainforest gardens, ensuite bathroom, and mini-kitchenette. With solid wood furnishings, simple yet stylish décor, and a polished timber floor, these rooms are naturally impressive.
+
+To check availability and book please [click here](https://apac.littlehotelier.com/properties/samurai-beach-bungalows?check_in_date=&check_out_date=NaN-NaN-NaN "Book Now"){:target="_blank"}
