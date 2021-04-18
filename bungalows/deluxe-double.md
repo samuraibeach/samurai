@@ -38,7 +38,7 @@ gallery:
   file: deluxedouble.jpg
 - title: Balcony
   file: deluxebalcony.jpg
-description: Private double with ensuite
+description: Private Queen with ensuite
 images:
 - title: Deluxe Double Interior
   file: "/v1557720628/samurai/deluxe.bed.jpg"
