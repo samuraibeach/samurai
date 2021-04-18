@@ -1,5 +1,5 @@
 ---
-title: Backpacker Bunk Rooms
+title: Share Bunk Rooms
 layout: bungalows
 parent: "/bungalows"
 permalink: "/bungalows/bunk-room"
@@ -30,14 +30,14 @@ gallery:
 - title: Balcony wiew
   file: "/v1553484385/samurai/birubisunset.jpg"
   width: 1
-description: Backpacker 5/6 Share bunk Room
+description: 6 Share bunk Room
 
 ---
-### Backpacker Bunk Rooms
+### Share Bunk Rooms
 
-**SAMURAI YHA Backpackers Resort** is a choice place to hang your backpack for a while. Unwind, meet travellers, and sleep in one of our comfortable Backpacker Bunk Rooms.
+**SAMURAI**  is a choice place to hang your backpack for a while. Unwind, meet travellers, and sleep in one of our comfortable Share Bunk Rooms.
 
-Fully equipped with backpacker essentials—linens, pillows, doonas, blankets, shared refrigerator, fan, heater and hot water bottles in winter—these five or six-share hostel rooms are spacious, clean, cheap, and seriously cosy.
+Fully equipped with backpacker essentials—linens, pillows, doonas, blankets, shared refrigerator, fan, heater and hot water bottles in winter—these  six-share hostel rooms are spacious, clean, cheap, and seriously cosy.
 
 Relax, chat, or just lounge and enjoy the garden view from the wide verandah; even feed the friendly possum Pete who hangs around.
 
