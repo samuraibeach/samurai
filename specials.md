@@ -9,6 +9,8 @@ published: false
 ---
 ### Current Specials and Packages
 
+SORRY THERE ARE CURRENTLY NO SPECIALS but below is some of what we have offered before.  Stay tuned and we will update our specials starting September 2025
+
 Check out our 3 nights specials for Bunks, and Doubles
 look for our HOT specials
 
